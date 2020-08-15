@@ -1,0 +1,14 @@
+state={
+	id=851
+	name="STATE_851"
+	provinces={
+		1499 1558 1638 3828 3877 4514 9831 10429 11836 11903 12337 12469 12478 
+	}
+	history = {
+		owner = PRC
+		add_core_of = PRC
+		add_core_of = CHI
+	}
+	manpower=3139153
+	buildings_max_level_factor=1.000
+}
