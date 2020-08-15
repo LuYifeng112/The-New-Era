@@ -1,0 +1,27 @@
+
+state={
+	id=527
+	name="STATE_527"
+	resources={
+		steel=18.000
+		tungsten=28.000
+	}
+
+	history={
+		owner = DRK
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		add_core_of = KOR
+		add_core_of = DRK
+
+	}
+
+	provinces={
+		1003 7155 12040 
+	}
+	manpower=2113672
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,14 @@
+state={
+	id=831
+	name="STATE_831"
+	state_category=large_town
+	provinces={
+		1302 4379 7229 10137 10180 10309 13712       
+	}
+	history={
+		owner=VIN
+		add_core_of=VIN
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

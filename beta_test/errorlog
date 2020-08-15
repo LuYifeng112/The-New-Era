@@ -1,0 +1,100 @@
+[19:49:05][dlc.cpp:1286]: incorrect checksum for DLC
+[19:49:06][dlc.cpp:1286]: incorrect checksum for DLC
+[19:49:07][dlc.cpp:1286]: incorrect checksum for DLC
+[19:49:09][dlc.cpp:1286]: incorrect checksum for DLC
+[19:49:09][dlc.cpp:1692]: Could not find files for mod: E:\SteamLibrary\steamapps\workshop\content\394360\1827273767
+[19:49:09][dlc.cpp:1692]: Could not find files for mod: E:\SteamLibrary\steamapps\workshop\content\394360\1518661328
+[19:49:09][dlc.cpp:260]: Invalid supported_version in  file: mod/ugc_1629702438.mod line: 6
+[19:49:09][dlc.cpp:260]: Invalid supported_version in  file: mod/ugc_1629702438.mod line: 6
+[19:49:09][dlc.cpp:1286]: incorrect checksum for DLC
+[19:49:10][dlc.cpp:1286]: incorrect checksum for DLC
+[19:49:10][dlc.cpp:1286]: incorrect checksum for DLC
+[19:49:11][dlc.cpp:1286]: incorrect checksum for DLC
+[19:49:19][bitmapfont.cpp:559]: base (16) in 'gfx/fonts/hoi_20bs_cryllic.fnt' does not match previous fontfiles in font 'loadscreen_header'
+[19:49:19][bitmapfont.cpp:559]: base (16) in 'gfx/fonts/hoi_20bs_cryllic.fnt' does not match previous fontfiles in font 'loadscreen_tip'
+[19:49:21][bitmapfont.cpp:545]: lineHeight (20) in 'gfx/fonts/hoi_20b_cryllic.fnt' does not match previous fontfiles in font 'hoi_20b'
+[19:49:21][bitmapfont.cpp:559]: base (16) in 'gfx/fonts/hoi_20b_cryllic.fnt' does not match previous fontfiles in font 'hoi_20b'
+[19:49:21][bitmapfont.cpp:559]: base (16) in 'gfx/fonts/hoi_20bs_cryllic.fnt' does not match previous fontfiles in font 'hoi_20bs'
+[19:49:22][bitmapfont.cpp:559]: base (16) in 'gfx/fonts/hoi_20bs_cryllic.fnt' does not match previous fontfiles in font 'hoi_24header'
+[19:49:22][bitmapfont.cpp:559]: base (16) in 'gfx/fonts/hoi_20bs_cryllic.fnt' does not match previous fontfiles in font 'hoi_30header'
+[19:50:25][lexer.cpp:168]: Adding dynamic token "nationalism" that already exists.
+[19:50:25][lexer.cpp:168]: Adding dynamic token "liberalism" that already exists.
+[19:50:25][trigger.cpp:575]: Invalid trigger 'HKG' in common/ideas/00_PRC_PACE.txt line : 170
+[19:50:25][trigger.cpp:435]: Error: "Unknown trigger-type: HKG, near line: 170" in file: "common/ideas/00_PRC_PACE.txt" near line: 173
+[19:50:26][persistent.cpp:52]: Error: "Malformed token: KOS, near line: 131" in file: "common/country_leader/00_traits.txt" near line: 131
+[19:50:26][persistent.cpp:52]: Error: "Malformed token: ROJ, near line: 471" in file: "common/country_leader/00_traits.txt" near line: 471
+[19:50:26][persistent.cpp:52]: Error: "Malformed token: ROJ, near line: 493" in file: "common/country_leader/00_traits.txt" near line: 493
+[19:50:26][persistent.cpp:52]: Error: "Malformed token: SIN, near line: 705" in file: "common/country_leader/00_traits.txt" near line: 705
+[19:50:26][persistent.cpp:52]: Error: "Malformed token: KUR, near line: 740" in file: "common/country_leader/00_traits.txt" near line: 740
+[19:50:26][persistent.cpp:52]: Error: "Malformed token: KUR, near line: 746" in file: "common/country_leader/00_traits.txt" near line: 746
+[19:50:26][persistent.cpp:52]: Error: "Malformed token: KUR, near line: 752" in file: "common/country_leader/00_traits.txt" near line: 752
+[19:50:26][persistent.cpp:52]: Error: "Malformed token: SIN, near line: 916" in file: "common/country_leader/00_traits.txt" near line: 916
+[19:50:26][persistent.cpp:52]: Error: "Malformed token: SIN, near line: 936" in file: "common/country_leader/00_traits.txt" near line: 936
+[19:50:26][persistent.cpp:52]: Error: "Malformed token: ISS, near line: 984" in file: "common/country_leader/00_traits.txt" near line: 984
+[19:50:26][persistent.cpp:52]: Error: "Malformed token: ISS, near line: 989" in file: "common/country_leader/00_traits.txt" near line: 989
+[19:50:26][persistent.cpp:52]: Error: "Malformed token: SIN, near line: 1162" in file: "common/country_leader/00_traits.txt" near line: 1162
+[19:50:26][persistent.cpp:52]: Error: "Malformed token: DRK, near line: 1180" in file: "common/country_leader/00_traits.txt" near line: 1180
+[19:50:26][persistent.cpp:52]: Error: "Malformed token: DRK, near line: 1185" in file: "common/country_leader/00_traits.txt" near line: 1185
+[19:50:31][effect.cpp:284]: Error: "Unexpected token: remove_ideas, near line: 1592
+" in file: "common/national_focus/china_shared.txt" near line: 1593
+[19:50:31][effect.cpp:284]: Error: "Invalid idea: wartime_industry_focus, near line: 613
+" in file: "common/national_focus/uk.txt" near line: 614
+
+[19:50:34][triggerimplementation.cpp:2919]: Invalid idea in has_idea trigger: has_idea = german_advisors (common/ideas/china_shared.txt:446: has_idea)
+[19:50:34][triggerimplementation.cpp:2919]: Invalid idea in has_idea trigger: has_idea = CHI_incompetent_officers (common/national_focus/china_shared.txt:222: has_idea)
+[19:50:34][triggerimplementation.cpp:2919]: Invalid idea in has_idea trigger: has_idea = CHI_nine_power_treaty (common/national_focus/china_shared.txt:1583: has_idea)
+[19:50:34][triggerimplementation.cpp:14199]: Invalid decision in has_decision trigger: has_decision = PRC_infiltrate_gansu
+[19:50:34][triggerimplementation.cpp:14199]: Invalid decision in has_decision trigger: has_decision = PRC_infiltrate_shandong
+[19:50:34][triggerimplementation.cpp:14199]: Invalid decision in has_decision trigger: has_decision = PRC_infiltrate_jiangsu
+[19:50:34][triggerimplementation.cpp:14199]: Invalid decision in has_decision trigger: has_decision = PRC_infiltrate_henan
+[19:50:34][triggerimplementation.cpp:14199]: Invalid decision in has_decision trigger: has_decision = PRC_infiltrate_beijing
+[19:50:34][triggerimplementation.cpp:14199]: Invalid decision in has_decision trigger: has_decision = PRC_infiltrate_hebei
+[19:50:34][triggerimplementation.cpp:14199]: Invalid decision in has_decision trigger: has_decision = PRC_infiltrate_shanxi
+[19:50:34][triggerimplementation.cpp:14199]: Invalid decision in has_decision trigger: has_decision = PRC_infiltrate_suiyuan
+[19:50:34][triggerimplementation.cpp:14199]: Invalid decision in has_decision trigger: has_decision = PRC_infiltrate_xian
+[19:50:34][triggerimplementation.cpp:14199]: Invalid decision in has_decision trigger: has_decision = PRC_infiltrate_ordos
+[19:50:34][triggerimplementation.cpp:14199]: Invalid decision in has_decision trigger: has_decision = PRC_infiltrate_east_hebei
+[19:50:34][triggerimplementation.cpp:14199]: Invalid decision in has_decision trigger: has_decision = PRC_infiltrate_jehol
+[19:50:34][triggerimplementation.cpp:14199]: Invalid decision in has_decision trigger: has_decision = PRC_infiltrate_south_chahar
+[19:50:34][triggerimplementation.cpp:14199]: Invalid decision in has_decision trigger: has_decision = PRC_infiltrate_chahar
+[19:50:34][triggerimplementation.cpp:14199]: Invalid decision in has_decision trigger: has_decision = PRC_infiltrate_heilungkiang
+[19:50:34][triggerimplementation.cpp:14199]: Invalid decision in has_decision trigger: has_decision = PRC_infiltrate_liaoning
+[19:50:34][effectimplementation.cpp:19199]: : invalid on_win event for start border war
+[19:50:34][effectimplementation.cpp:19212]: : invalid on_lose event for start border war
+[19:50:34][effectimplementation.cpp:19225]: : invalid on_cancel event for start border war
+[19:50:34][effectimplementation.cpp:19199]: : invalid on_win event for start border war
+[19:50:34][effectimplementation.cpp:19212]: : invalid on_lose event for start border war
+[19:50:34][effectimplementation.cpp:19225]: : invalid on_cancel event for start border war
+[19:50:34][effectimplementation.cpp:19199]: : invalid on_win event for start border war
+[19:50:34][effectimplementation.cpp:19212]: : invalid on_lose event for start border war
+[19:50:34][effectimplementation.cpp:19225]: : invalid on_cancel event for start border war
+[19:50:34][effectimplementation.cpp:19199]: : invalid on_win event for start border war
+[19:50:34][effectimplementation.cpp:19212]: : invalid on_lose event for start border war
+[19:50:34][effectimplementation.cpp:19225]: : invalid on_cancel event for start border war
+[19:50:34][effectimplementation.cpp:19199]: : invalid on_win event for start border war
+[19:50:34][effectimplementation.cpp:19212]: : invalid on_lose event for start border war
+[19:50:34][effectimplementation.cpp:19225]: : invalid on_cancel event for start border war
+[19:50:34][effectimplementation.cpp:19199]: : invalid on_win event for start border war
+[19:50:34][effectimplementation.cpp:19212]: : invalid on_lose event for start border war
+[19:50:34][effectimplementation.cpp:19225]: : invalid on_cancel event for start border war
+[19:50:34][effectimplementation.cpp:19199]: : invalid on_win event for start border war
+[19:50:34][effectimplementation.cpp:19212]: : invalid on_lose event for start border war
+[19:50:34][effectimplementation.cpp:19225]: : invalid on_cancel event for start border war
+[19:50:34][effectimplementation.cpp:19199]: : invalid on_win event for start border war
+[19:50:34][effectimplementation.cpp:19212]: : invalid on_lose event for start border war
+[19:50:34][effectimplementation.cpp:19225]: : invalid on_cancel event for start border war
+[19:50:34][effectimplementation.cpp:15490]: Invalid Decision ID for unlock_decision_tooltip PRC_provoke_japan
+[19:50:34][effectimplementation.cpp:15490]: Invalid Decision ID for unlock_decision_tooltip PRC_launch_100_regiments_campaign
+[19:50:34][effectimplementation.cpp:15552]: Invalid Decision ID for activate_mission_tooltip CHI_release_korea
+[19:50:34][effectimplementation.cpp:15552]: Invalid Decision ID for activate_mission_tooltip CHI_overlordship_over_indochina
+[19:50:34][effectimplementation.cpp:15552]: Invalid Decision ID for activate_mission_tooltip CHI_build_a_carrier
+[19:50:34][effectimplementation.cpp:15607]: Invalid Decision Category CHI_seek_japanese_support
+[19:50:34][effectimplementation.cpp:15490]: Invalid Decision ID for unlock_decision_tooltip CHI_expand_the_burma_road
+[19:50:34][effectimplementation.cpp:15943]: Invalid Decision ID for targeted decision effect WTT_border_conflict_time_until_cancelled
+[19:50:34][effectimplementation.cpp:15943]: Invalid Decision ID for targeted decision effect WTT_border_conflict_time_until_cancelled
+[19:50:34][effectimplementation.cpp:15943]: Invalid Decision ID for targeted decision effect WTT_border_conflict_time_until_cancelled
+[19:50:34][effectimplementation.cpp:15943]: Invalid Decision ID for targeted decision effect WTT_border_conflict_time_until_cancelled
+[19:50:49][flagtextureatlas.cpp:249]: Error loading country flag overlay: gfx/flags/small/URG.tga : Unexpected texture dimensions
+[19:50:49][flagtextureatlas.cpp:493]: Error loading flag for country URG : Ideology democratic : Path gfx/flags/small/ : Unexpected texture dimensions
+[19:50:50][flagtextureatlas.cpp:249]: Error loading country flag overlay: gfx/flags/small/URG.tga : Unexpected texture dimensions
+[19:50:50][flagtextureatlas.cpp:493]: Error loading flag for country URG : Ideology democratic : Path gfx/flags/small/ : Unexpected texture dimensions

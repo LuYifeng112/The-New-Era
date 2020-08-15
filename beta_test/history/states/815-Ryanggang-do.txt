@@ -1,0 +1,19 @@
+
+state={
+	id=815
+	name="STATE_815"
+	state_category=city
+	history={
+		owner = DRK
+		add_core_of = DRK
+		add_core_of = KOR
+
+	}
+
+	provinces={
+		852 3803 3860 9899 
+	}
+	manpower=719269
+	buildings_max_level_factor=1.000
+	state_category=city
+}

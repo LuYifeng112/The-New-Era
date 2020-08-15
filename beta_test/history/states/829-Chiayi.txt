@@ -1,0 +1,14 @@
+state={
+	id=829
+	name="STATE_829"
+	provinces={
+		15178 
+	}
+	history={
+		owner=CHI
+		add_core_of=CHI
+		add_core_of=PRC
+	}
+	manpower=270254
+	buildings_max_level_factor=1.000
+}

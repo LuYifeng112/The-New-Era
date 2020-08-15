@@ -1,0 +1,16 @@
+version="1.9.2"
+tags={
+	"Alternative History"
+	"National Focuses"
+	"Historical"
+	"Graphics"
+	"Gameplay"
+	"Events"
+	"Military"
+	"Map"
+	"Ideologies"
+}
+replace_path="map/strategicregions"
+replace_path="map/supplyareas"
+name="Peace and Conflict beta"
+supported_version="1.9.2 beta"

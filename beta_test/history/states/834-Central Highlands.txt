@@ -1,0 +1,14 @@
+state={
+	id=834
+	name="STATE_834"
+	state_category=large_city
+	history={
+		owner=VIN
+		add_core_of=VIN
+	}
+	provinces={
+		1400 1605 12176 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
