@@ -1,0 +1,15 @@
+
+state={
+	id=811
+	name="STATE_811"
+	state_category=large_city
+	history={
+		owner = KOR
+		add_core_of = KOR
+	}
+	provinces={
+		1100 4107 14030 14032 14033 
+	}
+	manpower=13530000
+	buildings_max_level_factor=1.000
+}

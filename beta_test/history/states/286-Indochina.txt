@@ -1,0 +1,34 @@
+
+state={
+	id=286
+	name="STATE_286"
+	resources={
+		rubber=55.000
+	}
+
+	history={
+		add_core_of = VIN
+		owner = VIN
+		victory_points = {
+			4401 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 2
+			4401 = {
+				naval_base = 4
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1248 1328 1400 1605 4363 7271 7380 10180 12109 12176 13704 13713 
+	}
+	manpower=5245000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

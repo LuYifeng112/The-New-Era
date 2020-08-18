@@ -1,0 +1,14 @@
+state={
+	id=804
+	name="STATE_804"
+	state_category=large_city
+	provinces={
+		4126 7175 11977 13396 
+	}
+	history={
+		owner = KOR
+		add_core_of = KOR
+	}
+	manpower=1870000
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,17 @@
+state={
+	id=881
+	name="STATE_881"
+	state_category = city
+	provinces={
+		7387 
+	}
+	history = {
+		owner = BRU
+		add_core_of = BRU
+		victory_points = { 
+			7387 10 
+		}
+	}
+	manpower=428962
+	buildings_max_level_factor=1.000
+}

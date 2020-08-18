@@ -1,0 +1,18 @@
+
+state={
+	id=838
+	name="STATE_838"
+
+	history={
+		owner = VIN
+		add_core_of = VIN
+
+	}
+
+	provinces={
+		1302 4379 7280 12297 
+	}
+	manpower=1687900
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

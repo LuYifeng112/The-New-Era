@@ -1,0 +1,22 @@
+
+state={
+	id=525
+	name="STATE_525"
+	state_category=large_city
+	history={
+		owner = KOR
+		add_core_of = KOR
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			dockyard = 1
+		}
+	}
+
+	provinces={
+		1148 7021 10036 11958 12011 13343 14031 
+	}
+	manpower=1565000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

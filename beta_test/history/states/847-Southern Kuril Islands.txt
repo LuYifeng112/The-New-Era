@@ -1,0 +1,18 @@
+
+state={
+	id=847
+	name="STATE_847"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = JAP
+
+	}
+
+	provinces={
+		13037 15172 15173 15174 15175 15176 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

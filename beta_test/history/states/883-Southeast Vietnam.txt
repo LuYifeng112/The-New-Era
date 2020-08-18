@@ -1,0 +1,13 @@
+state={
+	id=883
+	name="STATE_883"
+	provinces={
+		7238 7347 10261 12232 13705 13710 13711 13714 13715 
+	}
+	history = {
+		owner = VIN
+		add_core_of = VIN
+	}
+	manpower=10492214
+	buildings_max_level_factor=1.000
+}

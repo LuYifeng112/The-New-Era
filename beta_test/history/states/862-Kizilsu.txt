@@ -1,0 +1,15 @@
+state={
+	id=862
+	name="STATE_862"
+	provinces={
+		1766 5087 12119 
+	}
+	history = {
+		owner = PRC
+		add_core_of = PRC
+		add_core_of = CHI
+		add_core_of = SIK
+	}
+	manpower=525599
+	buildings_max_level_factor=1.000
+}

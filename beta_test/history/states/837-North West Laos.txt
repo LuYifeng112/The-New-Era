@@ -1,0 +1,19 @@
+
+state={
+	id=837
+	name="STATE_837"
+
+	history={
+		owner = LAO
+		add_core_of = LAO
+		#add_core_of = LAS
+
+	}
+
+	provinces={
+		1507 10330 10356 10456 13342 13732 13733 13736 
+	}
+	manpower=965966
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

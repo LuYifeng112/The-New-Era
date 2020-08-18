@@ -1,0 +1,16 @@
+state={
+	id=882
+	name="STATE_882"
+	provinces={
+		15202 
+	}
+	history = {
+		owner = BRU
+		add_claim_by = CHI
+		add_claim_by = VIN
+		#add_claim_by = MAL
+		add_claim_by = PHI
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+}

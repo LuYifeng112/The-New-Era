@@ -1,0 +1,18 @@
+
+state={
+	id=833
+	name="STATE_833"
+
+	history={
+		owner = VIN
+		add_core_of = VIN
+
+	}
+
+	provinces={
+		1285 4405 10162 10232 12204 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

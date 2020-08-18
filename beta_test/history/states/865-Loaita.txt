@@ -1,0 +1,16 @@
+state={
+	id=865
+	name="STATE_865"
+	provinces={
+		15184 15187 
+	}
+	history = {
+		owner = PRC
+		add_claim_by = CHI
+		add_claim_by = VIN
+		add_claim_by = PHI
+		add_claim_by = MAL
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+}
