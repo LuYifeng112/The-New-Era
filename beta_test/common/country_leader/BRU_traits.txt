@@ -1,0 +1,45 @@
+leader_traits = {
+
+	BRU_sultan_leader = {
+		random = no
+
+		political_power_gain = 0.2
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	BRU_honorary_admiral = {
+		random = no
+
+		experience_gain_navy = 0.1
+
+		ai_wil_do = {
+			factor = 1
+		}
+	}
+
+	BRU_Melayu_islam = {
+		random = no
+
+		army_core_defence_factor = 0.3
+		salafist_acceptance = 100
+		conservative_acceptance = 40
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	BRU_gradual_democratiser = {
+		random = no
+
+		stability_factor = 0.1
+		drift_defence_factor = 0.25
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

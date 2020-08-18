@@ -389,8 +389,8 @@ ARM = {
 }
 
 LAO = {
-	color = rgb { 176  102  136 }
-	color_ui = rgb { 176  102  136 }
+	color = rgb { 255 0 8 }
+	color_ui = rgb { 255 0 8}
 }
 
 INS = {
@@ -399,8 +399,8 @@ INS = {
 }
 
 VIN = {
-	color = rgb { 230  223  50 }
-	color_ui = rgb { 230  223  50 }
+	color = rgb { 255 0 8 }
+	color_ui = rgb { 255 0 8}
 }
 
 CAM = {
@@ -705,5 +705,9 @@ SHL = {
 }
 DRK = {
 	color = rgb { 255 0 8 }
+	color_ui = rgb { 255 0 8}
+}
+BRU = {
+	color = rgb { 255 153 0 }
 	color_ui = rgb { 255 0 8}
 }

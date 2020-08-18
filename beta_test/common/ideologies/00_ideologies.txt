@@ -77,7 +77,7 @@ ideologies = {
 			}
 			
 			anti_revisionism = {
-			}
+			} 
 			
 			anarchist_communism = {
 			}
