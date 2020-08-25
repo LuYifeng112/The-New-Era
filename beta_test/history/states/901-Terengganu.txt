@@ -1,0 +1,17 @@
+state={
+	id=901
+	name="STATE_901"
+	resources={
+		oil=3
+	}
+	provinces={
+		4355 12199 
+	}
+	history = {
+		owner = MAL
+		add_core_of = MAL
+	}
+	manpower=1210500
+	state_category = city
+	buildings_max_level_factor=1.000
+}

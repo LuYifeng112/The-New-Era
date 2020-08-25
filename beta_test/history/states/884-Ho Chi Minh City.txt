@@ -8,6 +8,6 @@ state={
 		owner = VIN
 		add_core_of = VIN
 	}
-	manpower=8,636,899
+	manpower=8636899
 	buildings_max_level_factor=1.000
 }

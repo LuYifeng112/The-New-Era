@@ -1,0 +1,17 @@
+state={
+	id=907
+	name="STATE_907"
+	resources={
+		rubber = 40
+	}
+	provinces={
+		15205 
+	}
+	history = {
+		owner = MAL
+		add_core_of = MAL
+	}
+	manpower=91900
+	state_category = city
+	buildings_max_level_factor=1.000
+}

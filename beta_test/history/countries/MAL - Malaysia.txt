@@ -1,0 +1,105 @@
+﻿capital = 908 #Kuala Lumpur
+
+set_research_slots = 3
+
+# Starting tech
+# clone of UK
+set_technology = {
+	infantry_weapons = 1
+}
+
+add_ideas = {
+#MAL_sultan_states
+#MAL_SIN_1990_dispute
+#MAL_one_malay_program
+}
+set_convoys = 25
+#########################################################################################                                                                                       
+  ####   #####    ####     ##    #    #  #   ####     ##    #####  #   ####   #    #   ####  
+ #    #  #    #  #    #   #  #   ##   #  #  #        #  #     #    #  #    #  ##   #  #      
+ #    #  #    #  #       #    #  # #  #  #   ####   #    #    #    #  #    #  # #  #   ####  
+ #    #  #####   #  ###  ######  #  # #  #       #  ######    #    #  #    #  #  # #       # 
+ #    #  #   #   #    #  #    #  #   ##  #  #    #  #    #    #    #  #    #  #   ##  #    # 
+  ####   #    #   ####   #    #  #    #  #   ####   #    #    #    #   ####   #    #   ####  
+ ##########################################################################################
+ set_country_flag = OBOR
+ add_to_array = {
+    array = OBOR
+    value = MAL
+}
+
+
+###############################################
+	set_popularities = {
+		democratic = 0 
+		fascism = 0
+		communism = 0
+		neutrality = 0
+		salafist = 15
+		nationalism = 0
+		monarchist = 0
+		reactionary = 0
+		conservative = 35
+		progressive = 0
+		centrist = 0
+		socialist = 0
+		Novusism = 0
+		authoritarianism = 0
+		imperialism = 0
+		liberalism = 0
+		Chinese_socialism = 0
+		anarchism = 0
+		liberal_conservatism = 0
+		social_liberal = 0
+		market_liberal = 50
+		radical_right = 0
+	}
+	set_politics = {
+	ruling_party = market_liberal
+	last_election = "2018.5.9"
+	election_frequency = 60
+	elections_allowed = yes
+}
+
+create_country_leader = {
+	name = "Mahathir Mohamad"
+	desc = "POLITICS_MAHATHIR_MOHAMMAD_DESC"
+	picture = "GFX_portrait_malaya_shenton_thomas"
+	ideology = libertarian
+	traits = {
+	Look_East_Policy
+	PRC_cooperation
+	highly_credential
+	}
+}
+
+create_country_leader = {
+	name = "Abdullah of Pahang"
+	desc = "POLITICS_ABDULLAH_OF_PAHANG_DESC"
+	picture = "GFX_portrait_malaya_shenton_thomas"
+	ideology = absolute_monarchist
+	traits = {
+	Look_East_Policy
+	}
+}
+
+create_country_leader = {
+	name = "Madius Tangau"
+	desc = "POLITICS_MADIUS_TANGAU_DESC"
+	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_1.dds"
+	ideology = national_democrat
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Ahmad Zahid Hamidi" 
+	desc = "POLITICS_ZAHID_HAMIDI_DESC"
+	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_fascism.dds"
+	ideology = social_conservatism
+	traits = {
+		
+	}
+}
+

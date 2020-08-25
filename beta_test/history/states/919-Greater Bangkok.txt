@@ -1,0 +1,13 @@
+state={
+	id=919
+	name="STATE_919"
+	provinces={
+		1427 7338 7367 7587 10221 10250 
+	}
+	history = {
+		owner = SIA
+		add_core_of = SIA
+	}
+	manpower=7165193
+	buildings_max_level_factor=1.000
+}

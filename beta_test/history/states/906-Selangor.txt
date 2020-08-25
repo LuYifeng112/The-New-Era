@@ -1,0 +1,14 @@
+state={
+	id=906
+	name="STATE_906"
+	provinces={
+		4024 10297 
+	}
+	history = {
+		owner = MAL
+		add_core_of = MAL
+	}
+	manpower=6448400
+	state_category = large_city
+	buildings_max_level_factor=1.000
+}

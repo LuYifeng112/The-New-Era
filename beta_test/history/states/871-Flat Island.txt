@@ -12,5 +12,6 @@ state={
 		add_claim_by = CHI
 	}
 	manpower=1
+	state_category = tiny_island
 	buildings_max_level_factor=1.000
 }

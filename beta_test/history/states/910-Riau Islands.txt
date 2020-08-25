@@ -1,0 +1,14 @@
+state={
+	id=910
+	name="STATE_910"
+	provinces={
+		1346 12113 
+	}
+	history = {
+		owner = INS
+		add_core_of = INS
+	}
+	manpower=2241570
+	state_category = small_island
+	buildings_max_level_factor=1.000
+}

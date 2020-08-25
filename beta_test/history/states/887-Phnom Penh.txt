@@ -1,0 +1,13 @@
+state={
+	id=887
+	name="STATE_887"
+	provinces={
+		7376 
+	}
+	history = {
+		owner = CAM
+		add_core_of = CAM
+	}
+	manpower= 2129371
+	buildings_max_level_factor=1.000
+}

@@ -204,4 +204,4 @@ OCC = "countries/Occitania.txt"
 COR = "countries/Corsica.txt"
 
 DRK = "countries/northkorea.txt"
-BRU = "countries/countries/Indonesia.txt"
+BRU = "countries/Indonesia.txt"

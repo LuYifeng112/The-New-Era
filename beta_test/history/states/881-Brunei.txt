@@ -13,5 +13,6 @@ state={
 		}
 	}
 	manpower=428962
+	state_category = large_city
 	buildings_max_level_factor=1.000
 }
