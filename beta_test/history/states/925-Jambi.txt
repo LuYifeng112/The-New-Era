@@ -1,0 +1,13 @@
+state={
+	id=925
+	name="STATE_925"
+	provinces={
+		1332 1345 1373 1533 12212 12415 
+	}
+	history = {
+		owner = INS
+		add_core_of = INS
+	}
+	manpower=3566197
+	buildings_max_level_factor=1.000
+}

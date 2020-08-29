@@ -1,0 +1,13 @@
+state={
+	id=1027
+	name="STATE_1027"
+	provinces={
+		7078 11911 13266 
+	}
+	history = {
+		owner = BAN
+		add_core_of = BAN
+	}
+	manpower=8325666
+	buildings_max_level_factor=1.000
+}

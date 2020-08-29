@@ -1,14 +1,18 @@
+
 state={
 	id=910
 	name="STATE_910"
-	provinces={
-		1346 12113 
-	}
-	history = {
+
+	history={
 		owner = INS
 		add_core_of = INS
+
+	}
+
+	provinces={
+		1346 12113 14893 15194 15195 
 	}
 	manpower=2241570
-	state_category = small_island
 	buildings_max_level_factor=1.000
+	state_category=small_island
 }

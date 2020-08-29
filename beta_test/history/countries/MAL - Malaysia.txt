@@ -31,28 +31,9 @@ set_convoys = 25
 
 ###############################################
 	set_popularities = {
-		democratic = 0 
-		fascism = 0
-		communism = 0
-		neutrality = 0
-		salafist = 15
-		nationalism = 0
-		monarchist = 0
-		reactionary = 0
+		islamism = 15
 		conservative = 35
-		progressive = 0
-		centrist = 0
-		socialist = 0
-		Novusism = 0
-		authoritarianism = 0
-		imperialism = 0
-		liberalism = 0
-		Chinese_socialism = 0
-		anarchism = 0
-		liberal_conservatism = 0
-		social_liberal = 0
-		market_liberal = 50
-		radical_right = 0
+		market_liberal = 50 
 	}
 	set_politics = {
 	ruling_party = market_liberal

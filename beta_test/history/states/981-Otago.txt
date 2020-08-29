@@ -1,0 +1,13 @@
+state={
+	id=981
+	name="STATE_981"
+	provinces={
+		2211 8232 12974 
+	}
+	history = {
+		owner = NZL
+		add_core_of = NZL
+	}
+	manpower=236200
+	buildings_max_level_factor=1.000
+}

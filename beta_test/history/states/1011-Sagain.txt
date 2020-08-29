@@ -1,0 +1,13 @@
+state={
+	id=1011
+	name="STATE_1011"
+	provinces={
+		4087 4588 10486 12335 12464 12492 
+	}
+	history = {
+		owner = BRM
+		add_core_of = BRM
+	}
+	manpower=5325347
+	buildings_max_level_factor=1.000
+}

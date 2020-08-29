@@ -10,5 +10,6 @@ state={
 		add_core_of=PRC
 	}
 	manpower=7060473
+	state_category = large_city
 	buildings_max_level_factor=1.000
 }

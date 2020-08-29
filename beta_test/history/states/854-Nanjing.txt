@@ -17,5 +17,6 @@ state={
 		996 11913 11982 
 	}
 	manpower=8506000
+	state_category = megapolis
 	buildings_max_level_factor=1.000
 }

@@ -1,0 +1,13 @@
+state={
+	id=987
+	name="STATE_987"
+	provinces={
+		7385 12118 12153 10186 
+	}
+	history = {
+		owner = PHI
+		add_core_of = PHI
+	}
+	manpower=7396898
+	buildings_max_level_factor=1.000
+}

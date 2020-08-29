@@ -8,7 +8,10 @@ state={
 		owner = PRC
 		add_core_of = PRC
 		add_core_of = CHI
+		add_core_of = MON
 	}
 	manpower=532902
+	#state_category = industrial_zone
+	state_category = large_town
 	buildings_max_level_factor=1.000
 }

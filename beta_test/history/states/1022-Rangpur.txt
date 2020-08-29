@@ -1,0 +1,16 @@
+state={
+	id=1022
+	name="STATE_1022"
+
+	history={
+		owner = BAN
+		add_core_of = BAN
+
+	}
+
+	provinces={
+		10416 10443 13283 13284 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

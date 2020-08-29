@@ -1,0 +1,12 @@
+state={
+	id=967
+	name="STATE_967"
+	provinces={
+		13367 
+	}
+	history = {
+		owner = AST
+	}
+	manpower=1748
+	buildings_max_level_factor=1.000
+}

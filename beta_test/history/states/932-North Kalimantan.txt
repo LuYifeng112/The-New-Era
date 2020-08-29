@@ -1,0 +1,13 @@
+state={
+	id=932
+	name="STATE_932"
+	provinces={
+		1404 2047 5226 10181 12243 
+	}
+	history = {
+		owner = INS
+		add_core_of = INS
+	}
+	manpower=695562
+	buildings_max_level_factor=1.000
+}

@@ -14,5 +14,6 @@ state={
 		972 1508 3978 6937 6988 7575 7633 9873 10426 10499 11855 
 	}
 	manpower=4341245
+	state_category = pastoral
 	buildings_max_level_factor=1.000
 }

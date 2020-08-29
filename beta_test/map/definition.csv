@@ -14100,7 +14100,7 @@
 14099;61;186;78;land;true;forest;5
 14100;60;125;158;land;false;forest;5
 14101;129;198;152;land;false;forest;5
-14102;183;191;166;land;false;forest;0
+14102;183;191;166;land;false;forest;5
 14103;167;186;61;land;true;forest;5
 14104;160;48;130;land;false;forest;5
 14105;11;196;100;land;false;forest;5
@@ -15204,4 +15204,11 @@
 15203;186;97;192;land;true;plains;6
 15204;124;94;90;land;true;plains;6
 15205;145;120;184;land;true;plains;6
-15206;68;7;107;land;true;urban;6
+15206;68;7;107;land;true;urban;6 
+15207;103;253;230;land;true;plains;6
+15208;155;60;96;land;true;plains;6
+15209;43;82;137;land;true;plains;4
+15210;56;119;153;land;false;plains;6
+15211;163;61;211;land;true;plains;6
+15212;157;57;2;land;true;plains;6
+15213;163;30;161;land;false;hills;6

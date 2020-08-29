@@ -1,0 +1,13 @@
+state={
+	id=959
+	name="STATE_959"
+	provinces={
+		7339 
+	}
+	history = {
+		owner = PNG
+		add_core_of = PNG
+	}
+	manpower=60485
+	buildings_max_level_factor=1.000
+}

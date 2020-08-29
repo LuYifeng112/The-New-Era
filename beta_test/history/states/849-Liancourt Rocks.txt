@@ -9,6 +9,7 @@ state={
 		add_core_of = KOR
 		add_core_of = DRK
 	}
-	manpower=0
+	manpower=50
+	state_category = tiny_island
 	buildings_max_level_factor=1.000
 }

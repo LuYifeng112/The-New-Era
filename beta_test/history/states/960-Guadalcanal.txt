@@ -1,0 +1,16 @@
+state={
+	id=960
+	name="STATE_960"
+	provinces={
+		1269 1370 4292 7437 10291 
+	}
+	history = {
+		owner = SOL
+		add_core_of = SOL
+		victory_points = {
+			1269 10 
+		}
+	}
+	manpower=93613
+	buildings_max_level_factor=1.000
+}

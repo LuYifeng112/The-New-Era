@@ -1,0 +1,14 @@
+
+state={
+	id=1001
+	name="STATE_1001"
+	provinces={
+		7806 7881 10704 
+	}
+	history = {
+		owner = MON
+		add_core_of = MON
+	}
+	manpower=101314
+	buildings_max_level_factor=1.000
+}

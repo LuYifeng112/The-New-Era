@@ -1,0 +1,85 @@
+#Custom IC Modifiers
+weather_unpredictable_storms = { # on Region 
+	navy_casualty_on_sink = 0.4
+	positioning = 0.1
+	naval_accidents_chance = 0.05
+}
+water_modifier_shipping_channel = {
+	navy_casualty_on_sink = -0.6
+}
+water_modifier_dense_thermal_layers = {
+	navy_casualty_on_sink = -0.01
+}
+water_modifier_arctic_waters = { # on Region 
+	navy_casualty_on_sink = 0.2
+	naval_attrition = 0.1
+	naval_retreat_speed = -0.05
+	positioning = -0.2
+}
+water_modifier_posadist_dolphin_infestation = {
+	navy_casualty_on_sink = -0.01
+}
+water_modifier_whale_infestation = {
+	navy_casualty_on_sink = -0.01
+}
+a_cold_volcano = {
+
+}
+Victoria_Falls = {
+
+}
+Mount_Everest = {
+
+}
+Niagra_Falls = {
+
+}
+Khone_Phapheng_Falls = {
+
+}
+iguazu_falls = {
+
+}
+Kilimanjaro = {
+
+}
+
+#PACE modifiers
+piracy_light_modifier = {
+	navy_casualty_on_sink = 0.1
+	naval_accidents_chance = 0.01
+	naval_retreat_speed = -0.02
+}
+
+piracy_medium_modifier = {
+	navy_casualty_on_sink = 0.25
+	naval_accidents_chance = 0.05
+	naval_detection = 0.05
+	critical_receive_chance = 0.01
+	naval_retreat_speed = -0.04
+	navy_submarine_detection_factor = 0.1
+	spotting_chance = -0.05
+	convoy_escort_efficiency = -0.1
+}
+
+piracy_heavy_modifier = {
+	navy_casualty_on_sink = 0.4
+	naval_accidents_chance = 0.1
+	naval_detection = 0.2
+	critical_receive_chance = 0.02
+	naval_retreat_speed = -0.1
+	navy_submarine_detection_factor = 0.2
+	spotting_chance = -0.1
+	convoy_escort_efficiency = -0.3
+}
+
+piracy_intense_modifier = {
+	navy_casualty_on_sink = 0.65
+	naval_accidents_chance = 0.25
+	naval_detection = 0.4
+	critical_receive_chance = 0.06
+	naval_retreat_speed = -0.2
+	navy_submarine_detection_factor = 0.3
+	spotting_chance = -0.3
+	convoy_escort_efficiency = -0.5
+}

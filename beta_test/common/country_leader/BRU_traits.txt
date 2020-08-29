@@ -15,7 +15,7 @@ leader_traits = {
 
 		experience_gain_navy = 0.1
 
-		ai_wil_do = {
+		ai_will_do = {
 			factor = 1
 		}
 	}

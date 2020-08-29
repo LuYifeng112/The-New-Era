@@ -10,5 +10,6 @@ state={
 		814 881 1134 1137 1590 3955 4140 6828 6904 6969 9768 9776 9905 9969 10331 11801 12026 
 	}
 	manpower=22206724
+	state_category = large_city
 	buildings_max_level_factor=1.000
 }

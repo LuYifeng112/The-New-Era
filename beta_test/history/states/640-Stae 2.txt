@@ -1,0 +1,32 @@
+
+state={
+	id=640
+	name="STATE_640"
+	resources={
+		tungsten=120.000
+	}
+
+	history={
+		add_core_of = BRM
+		owner = BRM
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+
+		}
+		victory_points = {
+			1492 1 
+		}
+		victory_points = {
+			4425 1 
+		}
+
+	}
+
+	provinces={
+		1492 10386 12404 12449 13679 13680 
+	}
+	manpower=3944600
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,35 @@
+
+state={
+	id=288
+	name="STATE_288"
+	resources={
+		rubber=3.000
+		tungsten=92.000
+	}
+
+	history={
+		add_core_of = BRM
+		owner = BRM
+		victory_points = {
+			1330 5 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+			1330 = {
+				naval_base = 4
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		3999 4454 7122 7534 10033 11966 
+	}
+	manpower=10722500
+	buildings_max_level_factor=1.000
+	state_category=town
+}

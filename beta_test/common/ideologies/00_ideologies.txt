@@ -52,7 +52,6 @@ ideologies = {
 			lend_lease_tension = 0.50
 			send_volunteers_tension = 0.50
 			guarantee_tension = 0.25
-			take_states_cost_factor = 0.25
 			annex_cost_factor = 0.5
 		}
 		
@@ -244,7 +243,7 @@ ideologies = {
 		ai_neutral = yes # 
 	}
 	###############################################################################
-	salafist = {
+	islamism = {
 		
 		types = {
 		
@@ -254,7 +253,7 @@ ideologies = {
 			islamic_authoritarian = {
 			}
 			
-			Right_wing_islam = {
+			islamic_theocracy = {
 			}
 			
 			islamic_radical = {
@@ -341,7 +340,7 @@ ideologies = {
 	ai_fascist = yes	
 	}
 ###########################################################
-	nationalism = {
+	nationalist = {
 		
 		types = {
 		
@@ -438,7 +437,7 @@ ideologies = {
 			emir = {
 			}
 
-			dalai_lama  {
+			dalai_lama = {
 			}
 			
 			
@@ -528,6 +527,9 @@ ideologies = {
 	conservative = {
 		
 		types = {
+
+			conservatism = {
+			}
 		
 			constitutionalist = {
 			}
@@ -636,7 +638,7 @@ ideologies = {
 		
 		types = {
 		
-			centrist = {
+			centrism = {
 			}
 			
 			liberalist = {
@@ -738,51 +740,9 @@ ideologies = {
 		}
 	ai_democratic = yes	
 	}
+
 #######################################################
-	Novusism = {
-		
-		types = {
-		
-			human_supremecist = {
-			}
-			
-			neo_reformist = {
-			}
-			
-		}
-		
-		dynamic_faction_names = {
-			"FACTION_NAME_NOVUSISM_1"
-			"FACTION_NAME_NOVUSISM_2"
-			"FACTION_NAME_NOVUSISM_3"
-			"FACTION_NAME_NOVUSISM_4"
-			"FACTION_NAME_NOVUSISM_5"
-			"FACTION_NAME_NOVUSISM_6"
-		}
-		
-		color = { 127 255 0 }
-		
-		war_impact_on_world_tension = 1.95
-		faction_impact_on_world_tension = 1.95
-		
-		rules = {
-			can_declare_war_on_same_ideology = no
-			can_force_government = yes
-			can_send_volunteers = yes
-			can_puppet = yes
-			can_lower_tension = yes
-			can_only_justify_war_on_threat_country = yes
-			can_guarantee_other_ideologies = yes
-			can_boost_other_ideologies = yes
-		}
-		
-		modifiers = {
-			join_faction_tension = 0.1
-		}
-	ai_democratic = yes		
-	}
-#######################################################
-	authoritarianism = {
+	authoritarian = {
 		
 		types = {
 
@@ -979,7 +939,6 @@ ideologies = {
 			lend_lease_tension = 0.0
 			send_volunteers_tension = 0.0
 			guarantee_tension = 0.50
-			take_states_cost_factor = 0.25
 			annex_cost_factor = 0.5
 		}
 		
@@ -989,9 +948,12 @@ ideologies = {
 		can_be_boosted = yes
 	}			
 ##################################################################
-anarchism = {
+anarchy = {
 		ai_fascist = yes
 		types = {
+
+			anarchism = {
+			}
 		
 			anarcho_syndiclist = {
 			}
@@ -1032,7 +994,6 @@ anarchism = {
 			lend_lease_tension = 0.0
 			send_volunteers_tension = 0.0
 			guarantee_tension = 0.50
-			take_states_cost_factor = 0.75
 			annex_cost_factor = 0.5
 		}
 		
@@ -1042,7 +1003,7 @@ anarchism = {
 		can_be_boosted = yes
 	}	
 ####################################################################################################
-liberal_conservatism = { 
+liberal_conservatist = { 
 	
 		types = {
 			
@@ -1088,7 +1049,6 @@ liberal_conservatism = {
 			lend_lease_tension = 0.50
 			send_volunteers_tension = 0.50
 			guarantee_tension = 0.50
-			take_states_cost_factor = 0.25
 			annex_cost_factor = 0.5
 		}
 		
@@ -1102,7 +1062,7 @@ liberal_conservatism = {
 social_liberal = { 
 	
 		types = {
-			social_liberal = {
+			social_lib = {
 			}
 		}
 		
@@ -1139,7 +1099,6 @@ social_liberal = {
 			lend_lease_tension = 0.50
 			send_volunteers_tension = 0.50
 			guarantee_tension = 0.50
-			take_states_cost_factor = 0.25
 			annex_cost_factor = 0.5
 		}
 		

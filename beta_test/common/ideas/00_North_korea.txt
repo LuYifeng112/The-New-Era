@@ -150,9 +150,9 @@ ideas = {
 		DRK_nomenklatura_idea = {
 			allowed = {
 				original_tag = DRK
-				DRK = {
-					anarchism < 0.6
-				}
+				#DRK = {
+				#	anarchism < 0.6
+				#}
 			}
 
 			allowed_civil_war = {

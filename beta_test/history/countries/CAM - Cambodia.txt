@@ -58,7 +58,7 @@ set_variable = {
 	corruption = 20	
 }
 set_variable = {
-	anarchism = 83
+	centralization = 83
 }
 set_variable = {
 	democracy = 35
@@ -77,31 +77,12 @@ set_variable = {
  #         ####   ######  #    #    #   ####    ####  
  ###################################################################                                                     
 	set_popularities = {
-		democratic = 0 
-		fascism = 0
-		communism = 0
-		neutrality = 0
-		salafist = 0
-		nationalism = 0
-		monarchist = 0
-		reactionary = 0
 		conservative = 16
-		progressive = 0
-		centrist = 0
-		socialist = 0
-		Novusism = 0
-		authoritarianism = 77
-		imperialism = 0
-		liberalism = 0
-		Chinese_socialism = 0
-		anarchism = 0
-		liberal_conservatism = 0
+		authoritarian = 77
 		social_liberal = 7
-		market_liberal = 0
-		radical_right = 0
 	}
 	set_politics = {
-	ruling_party = authoritarianism
+	ruling_party = authoritarian
 	last_election = "2018.7.29"
 	election_frequency = 48
 	elections_allowed = yes

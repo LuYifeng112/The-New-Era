@@ -29,28 +29,9 @@ set_variable = { var = Nomeklatura_influence value = 13 }
 set_convoys = 20
 
 	set_popularities = {
-		democratic = 0 
-		fascism = 0
 		communism = 86 #86
-		neutrality = 0
-		salafist = 0
-		nationalism = 4
-		monarchist = 0
-		reactionary = 0
-		conservative = 0
-		progressive = 0
-		centrist = 0
+		nationalist = 4
 		socialist = 10
-		Novusism = 0
-		authoritarianism = 0 
-		imperialism = 0
-		liberalism = 0
-		Chinese_socialism = 0
-		anarchism = 0
-		liberal_conservatism = 0
-		social_liberal = 0
-		market_liberal = 0
-		radical_right = 0
 	}
 	set_politics = {
 	ruling_party = communism
@@ -87,3 +68,5 @@ create_country_leader = {
 	DRK_powerful_personality_cult
 	}
 }
+
+

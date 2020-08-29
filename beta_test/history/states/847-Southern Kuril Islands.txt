@@ -5,14 +5,12 @@ state={
 
 	history={
 		owner = SOV
-		add_core_of = SOV
-		add_core_of = JAP
-
+		add_claim_by = JAP
 	}
 
 	provinces={
 		13037 15172 15173 15174 15175 15176 
 	}
-	manpower=0
+	manpower=9717
 	buildings_max_level_factor=1.000
 }

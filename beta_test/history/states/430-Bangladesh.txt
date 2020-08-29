@@ -1,0 +1,18 @@
+
+state={
+	id=430
+	name="STATE_430"
+
+	history={
+		add_core_of = BAN
+		owner = BAN
+
+	}
+
+	provinces={
+		1142 9991 11968 12010 13208 13221 13257 13259 
+	}
+	manpower=29145000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

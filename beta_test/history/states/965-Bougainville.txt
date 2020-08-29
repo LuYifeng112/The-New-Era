@@ -1,0 +1,13 @@
+state={
+	id=965
+	name="STATE_965"
+	provinces={
+		1358 4226 4378 10234 
+	}
+	history = {
+		owner = SOL
+		add_core_of = SOL
+	}
+	manpower=249358
+	buildings_max_level_factor=1.000
+}

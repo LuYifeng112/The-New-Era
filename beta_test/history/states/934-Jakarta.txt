@@ -1,0 +1,16 @@
+state={
+	id=934
+	name="STATE_934"
+	provinces={
+		7381 
+	}
+	history = {
+		owner = INS
+		add_core_of = INS
+		victory_points = {
+			7381 50 
+		}
+	}
+	manpower=10770487
+	buildings_max_level_factor=1.000
+}

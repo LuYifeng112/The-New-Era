@@ -1,0 +1,13 @@
+state={
+	id=944
+	name="STATE_944"
+	provinces={
+		7311 10153 
+	}
+	history = {
+		owner = INS
+		add_core_of = INS
+	}
+	manpower=2512900
+	buildings_max_level_factor=1.000
+}

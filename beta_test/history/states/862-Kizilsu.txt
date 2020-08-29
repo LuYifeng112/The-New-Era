@@ -11,5 +11,6 @@ state={
 		add_core_of = SIK
 	}
 	manpower=525599
+	state_category = pastoral
 	buildings_max_level_factor=1.000
 }
