@@ -1,0 +1,13 @@
+state={
+	id=1045
+	name="STATE_1045"
+	provinces={
+		13313 13960 13962 13974 13980 
+	}
+	history = {
+		owner = PAK
+		add_core_of = PAK
+	}
+	manpower=4045366
+	buildings_max_level_factor=1.000
+}

@@ -4,6 +4,11 @@ state={
 	provinces={
 		1581 
 	}
-	manpower=0
+	history = {
+		owner = RAJ
+		add_core_of = RAJ
+	}
+	manpower=2855794
+	state_category = large_town
 	buildings_max_level_factor=1.000
 }

@@ -1,0 +1,16 @@
+state={
+	id=1049
+	name="STATE_1049"
+
+	history={
+		owner = BHU
+		add_core_of = BHU
+
+	}
+
+	provinces={
+		13273 13277 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

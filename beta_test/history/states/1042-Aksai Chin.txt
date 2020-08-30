@@ -1,11 +1,15 @@
+
 state={
 	id=1042
 	name="STATE_1042"
-	provinces={
-		5042 
-	}
-	history = {
+
+	history={
 		owner = PRC
+
+	}
+
+	provinces={
+		5042 13968 13994 
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

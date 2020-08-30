@@ -1,0 +1,14 @@
+
+state={
+	id=1043
+	name="STATE_1043"
+	provinces={
+		7316 12754 13951 13952 13953 13957 13958 13959 13963 
+	}
+	history = {
+		owner = RAJ
+		add_core_of = RAJ
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

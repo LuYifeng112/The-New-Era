@@ -1,0 +1,26 @@
+
+state={
+	id=445
+	name="STATE_445"
+
+	history={
+		victory_points = {
+			5105 1 
+		}
+		owner = PAK
+		buildings = {
+			infrastructure = 3
+			air_base = 4
+
+		}
+		add_core_of = PAK
+
+	}
+
+	provinces={
+		8022 
+	}
+	manpower=2006572
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

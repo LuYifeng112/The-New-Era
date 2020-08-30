@@ -1,0 +1,25 @@
+
+state={
+	id=444
+	name="STATE_444"
+
+	history={
+		victory_points = {
+			8066 1 
+		}
+		owner = PAK
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = PAK
+
+	}
+
+	provinces={
+		1179 4990 5043 5075 5105 7847 7917 7975 8013 8044 8066 8098 10813 12761 12774 13940 13941 13942 
+	}
+	manpower=12344408
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}
