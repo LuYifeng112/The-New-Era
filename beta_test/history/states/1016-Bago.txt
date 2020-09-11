@@ -9,5 +9,6 @@ state={
 		add_core_of = BRM
 	}
 	manpower=4867373
+	state_category = rural
 	buildings_max_level_factor=1.000
 }

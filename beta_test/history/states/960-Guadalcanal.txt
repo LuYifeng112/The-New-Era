@@ -12,5 +12,6 @@ state={
 		}
 	}
 	manpower=93613
+	state_category = pastoral
 	buildings_max_level_factor=1.000
 }

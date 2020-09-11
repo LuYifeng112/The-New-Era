@@ -9,5 +9,6 @@ state={
 		add_core_of = INS
 	}
 	manpower=5045700
+	state_category = pastoral
 	buildings_max_level_factor=1.000
 }

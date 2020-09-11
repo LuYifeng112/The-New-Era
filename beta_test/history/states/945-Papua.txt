@@ -9,5 +9,6 @@ state={
 		add_core_of = INS
 	}
 	manpower=3347100
+	state_category = town
 	buildings_max_level_factor=1.000
 }

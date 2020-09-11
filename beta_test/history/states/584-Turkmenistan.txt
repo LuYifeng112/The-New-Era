@@ -1,0 +1,26 @@
+
+state={
+	id=584
+	name="STATE_584"
+
+	history={
+		add_core_of = TMS
+		owner = TMS
+		victory_points = {
+			12333 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		1593 4563 7477 7563 10359 12359 
+	}
+	manpower=785800
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

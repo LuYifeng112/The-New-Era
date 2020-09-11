@@ -9,5 +9,6 @@ state={
 		add_core_of = BHU
 	}
 	manpower=122219
+	state_category = town
 	buildings_max_level_factor=1.000
 }

@@ -1,0 +1,13 @@
+state={
+	id=1060
+	name="STATE_1060"
+	provinces={
+		7344 
+	}
+	history = {
+		owner = SRL
+		add_core_of = SRL
+	}
+	manpower=2380861
+	buildings_max_level_factor=1.000
+}

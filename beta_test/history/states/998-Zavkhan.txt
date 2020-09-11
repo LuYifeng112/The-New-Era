@@ -10,5 +10,6 @@ state={
 		add_core_of = MON
 	}
 	manpower=65481
+	state_category = pastoral
 	buildings_max_level_factor=1.000
 }

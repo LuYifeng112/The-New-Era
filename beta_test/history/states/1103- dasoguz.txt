@@ -1,0 +1,17 @@
+
+state={
+	id=1103
+	name="STATE_1103"
+
+	history={
+		owner = TMS
+		add_core_of = TMS
+
+	}
+
+	provinces={
+		1493 7618 7635 10485 12324 
+	}
+	manpower=479500
+	buildings_max_level_factor=1.000
+}

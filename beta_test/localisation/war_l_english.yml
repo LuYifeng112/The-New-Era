@@ -8,3 +8,16 @@
  WAR_TAKE_CORE_NAME:0 "$ORDER$$FIRST$ reclamation of $STATE$"
  WAR_TAKE_CLAIM_NAME:0 "$ORDER$$FIRST$ Aggression for $STATE$"
  WAR_NAME_ITA_ETH:0 "Italian War on Ethiopia"
+ #Asia
+ WAR_NAME_DRK_KOR:0 "Second Korean War"
+ WAR_NAME_AFG_TAL:0 "The Afghanistan War"
+ WAR_NAME_RAJ_RAN:0 "Indian Civil War"
+ WAR_NAME_INS_TIM:0 "Indonesian Reclaimation of East Timor"
+ WAR_NAME_CHI_PRC:0 "Chinese Civil War"
+ WAR_NAME_HKG_PRC:0 "Chinese Civil War of Hong Kong"
+ WAR_NAME_MCU_PRC:0 "Chinese Civil War of Macau"
+ WAR_NAME_PRC_VIN:0 "Second Sino-Viet War"
+ WAR_NAME_VIN_CAM:0 "Second Cambodian-Vietnamese War"
+ #ME
+ WAR_NAME_YEM_HOU:0 "Yemen Civil War"
+

@@ -1,0 +1,17 @@
+
+state={
+	id=1107
+	name="STATE_1107"
+
+	history={
+		owner = KAZ
+		add_core_of = KAZ
+
+	}
+
+	provinces={
+		4578 4686 7556 7777 10366 12397 
+	}
+	manpower=603499
+	buildings_max_level_factor=1.000
+}

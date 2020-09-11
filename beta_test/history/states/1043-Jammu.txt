@@ -9,6 +9,7 @@ state={
 		owner = RAJ
 		add_core_of = RAJ
 	}
-	manpower=0
+	manpower=5350811
+	state_category = large_town
 	buildings_max_level_factor=1.000
 }

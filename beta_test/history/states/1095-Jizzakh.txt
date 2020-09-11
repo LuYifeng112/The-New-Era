@@ -1,0 +1,13 @@
+state={
+	id=1095
+	name="STATE_1095"
+	provinces={
+		4629 
+	}
+	history = {
+		owner = UZB
+		add_core_of = UZB
+	}
+	manpower=1301000
+	buildings_max_level_factor=1.000
+}

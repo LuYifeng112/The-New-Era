@@ -1,0 +1,13 @@
+state={
+	id=1090
+	name="STATE_1090"
+	provinces={
+		8027 10417 12805 13374 
+	}
+	history = {
+		owner = TAJ
+		add_core_of = TAJ
+	}
+	manpower=226900
+	buildings_max_level_factor=1.000
+}

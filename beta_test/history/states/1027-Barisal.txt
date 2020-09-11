@@ -9,5 +9,6 @@ state={
 		add_core_of = BAN
 	}
 	manpower=8325666
+	state_category = town
 	buildings_max_level_factor=1.000
 }

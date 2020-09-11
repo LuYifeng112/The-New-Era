@@ -1,0 +1,16 @@
+state={
+	id=1100
+	name="STATE_1100"
+
+	history={
+		owner = UZB
+		add_core_of = UZB
+
+	}
+
+	provinces={
+		12233 
+	}
+	manpower=1776700
+	buildings_max_level_factor=1.000
+}

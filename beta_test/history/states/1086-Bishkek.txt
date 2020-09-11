@@ -1,0 +1,13 @@
+state={
+	id=1086
+	name="STATE_1086"
+	provinces={
+		15214 
+	}
+	history = {
+		owner = KYR
+		add_core_of = KYR
+	}
+	manpower=937400
+	buildings_max_level_factor=1.000
+}

@@ -9,5 +9,6 @@ state={
 		add_core_of = PHI
 	}
 	manpower=14414774
+	state_category = town
 	buildings_max_level_factor=1.000
 }
