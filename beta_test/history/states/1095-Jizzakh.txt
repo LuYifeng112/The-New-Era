@@ -9,5 +9,6 @@ state={
 		add_core_of = UZB
 	}
 	manpower=1301000
+	state_category = town
 	buildings_max_level_factor=1.000
 }

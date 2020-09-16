@@ -12,5 +12,6 @@ state={
 		2017 2062 13920 
 	}
 	manpower=507405
+	state_category = rural
 	buildings_max_level_factor=1.000
 }

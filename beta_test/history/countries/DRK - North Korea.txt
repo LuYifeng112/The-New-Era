@@ -25,10 +25,7 @@ set_variable = {
 }
 set_variable = { var = Nomeklatura_influence value = 13 }
  
-
-set_convoys = 20
-
-	set_popularities = {
+ 	set_popularities = {
 		communism = 86 #86
 		nationalist = 4
 		socialist = 10

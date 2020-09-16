@@ -9,5 +9,6 @@ state={
 		add_core_of = KYR
 	}
 	manpower=937400
+	state_category = citys
 	buildings_max_level_factor=1.000
 }

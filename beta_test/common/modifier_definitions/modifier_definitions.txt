@@ -48,7 +48,7 @@ centralization_index = {
 }
 
 corruption_index = {
-	color_type = bad
+	color_type = good 
 	value_type = number
 	precision = 0
 	category = country

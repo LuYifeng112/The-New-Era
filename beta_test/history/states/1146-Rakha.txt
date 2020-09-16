@@ -1,0 +1,14 @@
+state={
+	id=1146
+	name="STATE_1146"
+	provinces={
+		1606 1634 3942 6883 
+	}
+	history = {
+		owner = SYR
+		add_core_of = SYR
+	}
+	manpower=919000
+	state_category = city
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,15 @@
+state={
+	id=1176
+	name="STATE_1176"
+	provinces={
+		1086 7107 13848 13850 13851 
+	}
+	history = {
+		owner = PAL
+		add_core_of = ISR
+		add_core_of = PAL
+	}
+	manpower=3340143
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

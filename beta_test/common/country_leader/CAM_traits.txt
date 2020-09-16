@@ -1,0 +1,45 @@
+leader_traits = {
+	CAM_corrupt = {
+		random = no
+
+		corruption_index = -5
+		stability_factor = -0.3
+		production_speed_buildings_factor = -0.1
+		global_building_slots_factor = -0.15
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	CAM_former_puppet_leader = {
+		random = no
+
+		political_power_gain = -0.1
+		democratisation_index = -5
+
+	ai_will_do = {
+		factor = 1
+	}
+	}
+	CAM_repressive = {
+		random = no
+
+		stability_factor = -0.05
+		drift_defence_factor = 0.25
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	CAM_anti_coup = {
+		random = no
+
+		centralization_index = 10
+		special_forces_defence_factor = 0.15
+		military_leader_cost_factor = 0.50
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

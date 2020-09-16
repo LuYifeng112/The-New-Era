@@ -13,5 +13,6 @@ state={
 		3593 7519 12314 12653 
 	}
 	manpower=950953
+	state_category = wasteland
 	buildings_max_level_factor=1.000
 }

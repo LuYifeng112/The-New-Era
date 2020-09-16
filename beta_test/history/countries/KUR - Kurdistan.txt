@@ -1,0 +1,50 @@
+﻿#capital = 291
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_research_slots = 3
+set_convoys = 70
+set_stability = 0.55 
+set_war_support = 0.45
+
+set_variable = {
+	corruption = 40
+}
+set_variable = {
+	anarchism = 73
+}
+set_variable = {
+	democracy = 67
+}
+set_variable = {
+	militarism = 45
+}
+
+set_country_flag = PACE_kurdish
+####################################popularity##################################
+set_popularities = {
+	democratic = 30 
+	nationalism = 70
+}
+set_politics = {
+	ruling_party = nationalism
+	last_election = "2020.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+create_country_leader = {
+	name = "Nechirvan Barzani"
+	desc = "POLITICS_NECHVIRAN_BARZANI_DESC"
+	picture = "gfx/leaders/KUR/KUR_Nechirvan_Barzani.dds"
+	ideology = kurdish_nationalism
+	traits = {
+		#westerniser
+		#IRQ_cooperation
+		#KUR_international_diplomacy_effort
+		#PI_liberalism
+	}
+}

@@ -8,6 +8,7 @@ state={
 		owner = AFG
 		add_core_of = AFG
 	}
-	manpower=1226593	
+	manpower=1226593
+	state_category = city	
 	buildings_max_level_factor=1.000
 }

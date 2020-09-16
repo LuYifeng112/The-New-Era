@@ -9,5 +9,6 @@ state={
 		add_core_of = SRL
 	}
 	manpower=1266663
+	state_category = city
 	buildings_max_level_factor=1.000
 }

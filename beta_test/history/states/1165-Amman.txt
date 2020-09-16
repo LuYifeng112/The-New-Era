@@ -1,0 +1,17 @@
+state={
+	id=1165
+	name="STATE_1165"
+
+	history={
+		owner = JOR
+		add_core_of = JOR
+
+	}
+
+	provinces={
+		4574 4591 
+	}
+	manpower=2473400
+	buildings_max_level_factor=1.000
+	state_category=city
+}

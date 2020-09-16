@@ -8,6 +8,7 @@ state={
 	history = {
 		owner = RAJ
 		add_core_of = RAJ
+		add_claim_by = PAK
 	}
 	manpower=5350811
 	state_category = large_town

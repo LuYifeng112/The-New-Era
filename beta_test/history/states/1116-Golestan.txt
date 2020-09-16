@@ -1,0 +1,14 @@
+state={
+	id=1116
+	name="STATE_1116"
+	provinces={
+		7602 
+	}
+	history = {
+		owner = PER
+		add_core_of = PER
+	}
+	manpower=1868819
+	state_category = city
+	buildings_max_level_factor=1.000
+}

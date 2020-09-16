@@ -13,5 +13,6 @@ state={
 		1479 1532 1576 1614 3170 4499 7541 10395 10435 12471 12474 13372 15217 15218 15219 15220 
 	}
 	manpower=1817500
+	state_category = rural
 	buildings_max_level_factor=1.000
 }

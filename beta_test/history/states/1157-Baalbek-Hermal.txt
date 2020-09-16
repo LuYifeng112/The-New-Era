@@ -1,0 +1,14 @@
+state={
+	id=1157
+	name="STATE_1157"
+	provinces={
+		13264 
+	}
+	history = {
+		owner = LEB
+		add_core_of = LEB
+	}
+	manpower=416427
+	state_category = city
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,14 @@
+state={
+	id=1188
+	name="STATE_1188"
+	provinces={
+		1955 4932 5024 5081 8118 10791 10850 12702 12740 12749 13359 
+	}
+	history = {
+		owner = SAU
+		add_core_of = SAU
+	}
+	manpower=4900325
+	state_category = town
+	buildings_max_level_factor=1.000
+}

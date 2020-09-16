@@ -9,11 +9,6 @@ leader_traits = {
 		}
 		ai_strategy = {
 			type = ignore
-			id = "USA"			
-			value = 200
-		}
-		ai_strategy = {
-			type = ignore
 			id = "GER"			
 			value = 200
 		}
@@ -57,11 +52,11 @@ leader_traits = {
 			id = "PHI"			
 			value = 200
 		}
-		ai_strategy = {
-			type = befriend
-			id = "SIN"			
-			value = 200
-		}
+		#ai_strategy = {
+		#	type = befriend
+		#	id = "SIN"			
+		#	value = 200
+		#}
 		ai_strategy = {
 			type = befriend
 			id = "INS"			

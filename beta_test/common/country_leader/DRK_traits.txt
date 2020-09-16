@@ -53,6 +53,7 @@ leader_traits = {
 		random = no
 
 		drift_defence_factor = 0.4
+		stability_factor = -0.1
 
 		ai_will_do = {
 			factor = 1
