@@ -1,0 +1,15 @@
+state={
+	id=1201
+	name="STATE_1201"
+	provinces={
+		13925 
+	}
+	history = {
+		owner = PER
+		add_core_of = PER
+		add_claim_by = UAE
+	}
+	manpower=2131
+	state_category = small_island
+	buildings_max_level_factor=1.000
+}

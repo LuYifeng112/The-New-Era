@@ -439,6 +439,9 @@ ideologies = {
 
 			dalai_lama = {
 			}
+
+			BHR_monarchy = {
+			}
 			
 			
 		}

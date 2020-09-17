@@ -1,0 +1,15 @@
+state={
+	id=1212
+	name="STATE_1212"
+	provinces={
+		12821 
+	}
+	history = {
+		owner = YEM
+		add_core_of = HOU
+		add_core_of = YEM
+	}
+	manpower=668000
+	state_category = town
+	buildings_max_level_factor=1.000
+}

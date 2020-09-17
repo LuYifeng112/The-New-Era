@@ -1,0 +1,14 @@
+state={
+	id=1199
+	name="STATE_1199"
+	provinces={
+		13337 
+	}
+	history = {
+		owner = UAE
+		add_core_of = UAE
+	}
+	manpower=488600
+	state_category = city
+	buildings_max_level_factor=1.000
+}

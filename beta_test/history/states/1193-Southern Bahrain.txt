@@ -1,0 +1,14 @@
+state={
+	id=1193
+	name="STATE_1193"
+	provinces={
+		13914 
+	}
+	history = {
+		owner = BHR
+		add_core_of = BHR
+	}
+	manpower=101456
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

@@ -27,7 +27,7 @@ leader_traits = {
 		random = no
 
 		army_core_defence_factor = 0.3
-		islamist_acceptance = 100
+		islamism_acceptance = 100
 		conservative_acceptance = 40
 
 		ai_will_do = {

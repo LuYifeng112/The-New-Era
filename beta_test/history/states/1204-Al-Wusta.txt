@@ -1,0 +1,14 @@
+state={
+	id=1204
+	name="STATE_1204"
+	provinces={
+		2018 8002 
+	}
+	history = {
+		owner = OMA
+		add_core_of = OMA
+	}
+	manpower=42111
+	state_category = town
+	buildings_max_level_factor=1.000
+}

@@ -9,6 +9,6 @@ state={
 		add_core_of = SAU
 	}
 	manpower=375310
-	state_ctegory = town
+	state_category = town
 	buildings_max_level_factor=1.000
 }

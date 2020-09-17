@@ -735,3 +735,15 @@ TOA = {
 	color = rgb { 211 235 52 }
 	color_ui = rgb {211 235 52 }	
 }
+HOU = {
+	color = rgb { 39 99 15 }
+	color_ui = rgb { 39 99 15 }	
+}
+AQY = {
+	color = rgb { 13 13 12 }
+	color_ui = rgb { 13 13 12 }	
+}
+KUR = {
+	color = rgb { 113 212 68 }
+	color_ui = rgb { 113 212 68 }	
+}
