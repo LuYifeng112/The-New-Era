@@ -1,0 +1,14 @@
+state={
+	id=1251
+	name="STATE_1251"
+	provinces={
+		2003 2046 7989 10902 12725 13525 
+	}
+	history = {
+		owner = SUD
+		add_core_of = SUD
+	}
+	manpower=1482053
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

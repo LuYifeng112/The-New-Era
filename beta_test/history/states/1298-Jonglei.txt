@@ -1,0 +1,14 @@
+state={
+	id=1298
+	name="STATE_1298"
+	provinces={
+		10877 13463 13469 13473 13479 13480 13486 13492 13868 13869 
+	}
+	history = {
+		owner = SSD
+		add_core_of = SSD
+	}
+	manpower=1228824
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

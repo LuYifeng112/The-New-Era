@@ -1,0 +1,15 @@
+state={
+	id=1281
+	name="STATE_1281"
+	provinces={
+		8094 
+	}
+	history = {
+		owner = SML
+		add_core_of = SML
+		add_core_of = SOM
+	}
+	manpower=327428
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

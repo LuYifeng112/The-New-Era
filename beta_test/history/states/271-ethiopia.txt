@@ -1,0 +1,20 @@
+
+state={
+	id=271
+	name="STATE_271"
+	resources={
+		rubber=2.000
+	}
+
+	history={
+		owner = ETH
+		add_core_of = ETH
+	}
+
+	provinces={
+		5010 
+	}
+	manpower=4567857
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

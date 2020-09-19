@@ -22,6 +22,10 @@ set_variable = {
 	militarism = 70
 }
 
+add_to_array = {
+	array = AQ
+	value = AQY
+}
 
 declare_war_on = {
 	target = YEM

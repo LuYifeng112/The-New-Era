@@ -1,0 +1,15 @@
+state={
+	id=1277
+	name="STATE_1277"
+	provinces={
+		5068 
+	}
+	history = {
+		owner = SML
+		add_core_of = SML
+		add_core_of = SOM
+	}
+	manpower=2400000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

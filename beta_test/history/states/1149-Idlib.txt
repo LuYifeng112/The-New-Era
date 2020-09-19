@@ -7,6 +7,7 @@ state={
 	history = {
 		owner = SYR
 		add_core_of = SYR
+		set_demilitarized_zone = yes
 	}
 	manpower=1464000
 	state_category = large_town

@@ -1,0 +1,14 @@
+state={
+	id=1272
+	name="STATE_1272"
+	provinces={
+		15244 
+	}
+	history ={
+		owner = DJI
+		add_core_of = DJI
+	}
+	manpower=71640
+	state_category = city
+	buildings_max_level_factor=1.000
+}

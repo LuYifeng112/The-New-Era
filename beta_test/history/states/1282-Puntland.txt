@@ -1,0 +1,14 @@
+state={
+	id=1282
+	name="STATE_1282"
+	provinces={
+		1966 4909 6962 10891 12169 13531 
+	}
+	history = {
+		owner = SOM
+		add_core_of = SOM
+	}
+	manpower=4285000
+	state_category = city
+	buildings_max_level_factor=1.000
+}

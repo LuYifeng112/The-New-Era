@@ -1,0 +1,14 @@
+state={
+	id=1257
+	name="STATE_1257"
+	provinces={
+		1960 10857 
+	}
+	history = {
+		owner = SUD
+		add_core_of = SUD
+	}
+	manpower=2890348
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

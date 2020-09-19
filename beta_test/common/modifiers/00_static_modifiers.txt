@@ -109,8 +109,18 @@ weather_ground_snow_high = { # on Province
 
 flooded = { # on Province
 	army_speed_factor = -0.5
+	army_attack_factor = -0.4
+	local_org_regain = 0.35
 	army_defence_factor = 0.5
 	dig_in_speed_factor = 0.2
+	winter_attrition = -0.5
+}
+
+iraq_iran_mountain = {
+	army_speed_factor = -0.9
+	army_attack_factor = -0.6
+	army_defence_factor = 0.7
+	dig_in_speed_factor = -0.7
 }
 
 unplanned_offensive = { # on Province

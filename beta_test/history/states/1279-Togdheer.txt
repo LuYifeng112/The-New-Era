@@ -1,0 +1,15 @@
+state={
+	id=1279
+	name="STATE_1279"
+	provinces={
+		1905 
+	}
+	history = {
+		owner = SML
+		add_core_of = SML
+		add_core_of = SOM
+	}
+	manpower=350000
+	state_category = city
+	buildings_max_level_factor=1.000
+}

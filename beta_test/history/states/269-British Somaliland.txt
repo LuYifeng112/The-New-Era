@@ -1,0 +1,19 @@
+
+state={
+	id=269
+	name="STATE_269"
+
+	history={
+		owner = SML
+		add_core_of = SML
+		add_core_of = SOM
+
+	}
+
+	provinces={
+		10777 
+	}
+	manpower=344700
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}

@@ -1,0 +1,14 @@
+state={
+	id=1269
+	name="STATE_1269"
+	provinces={
+		13836 13837 13839 13840 
+	}
+	history = {
+		owner = ERI
+		add_core_of = ERI
+	}
+	manpower=1103742
+	state_category = town
+	buildings_max_level_factor=1.000
+}

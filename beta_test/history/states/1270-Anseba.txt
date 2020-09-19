@@ -1,0 +1,14 @@
+state={
+	id=1270
+	name="STATE_1270"
+	provinces={
+		5017 
+	}
+	history = {
+		owner = ERI
+		add_core_of = ERI
+	}
+	manpower=893587
+	state_category = city
+	buildings_max_level_factor=1.000
+}
