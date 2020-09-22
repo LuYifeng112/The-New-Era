@@ -1,0 +1,14 @@
+state={
+	id=1351
+	name="STATE_1351"
+	provinces={
+		12986 13618 
+	}
+	history = {
+		owner = MLW
+		add_core_of = MLW
+	}
+	manpower=7523340 
+	state_category = city
+	buildings_max_level_factor=1.000
+}

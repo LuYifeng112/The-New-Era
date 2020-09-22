@@ -1,0 +1,14 @@
+state={
+	id=1325
+	name="STATE_1325"
+	provinces={
+		14037 
+	}
+	history = {
+		owner = BRD
+		add_core_of = BRD
+	}
+	manpower=1096027
+	state_category = city
+	buildings_max_level_factor=1.000
+}

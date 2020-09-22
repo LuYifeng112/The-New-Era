@@ -1,0 +1,14 @@
+state={
+	id=1328
+	name="STATE_1328"
+	provinces={
+		15144 15151 
+	}
+	history = {
+		owner = TZN
+		add_core_of = TZN
+	}
+	manpower=1739530
+	state_category = large_town	
+	buildings_max_level_factor=1.000
+}

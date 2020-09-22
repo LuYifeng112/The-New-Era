@@ -1,0 +1,13 @@
+state={
+	id=1374
+	name="STATE_1374"
+	provinces={
+		13543 
+	}
+	history = {
+		owner = FRA
+	}
+	manpower=200
+	state_category = small_island
+	buildings_max_level_factor=1.000
+}

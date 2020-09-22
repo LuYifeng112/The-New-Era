@@ -12,5 +12,6 @@ state={
 		13037 15172 15173 15174 15175 15176 
 	}
 	manpower=9717
+	state_category = small_island
 	buildings_max_level_factor=1.000
 }

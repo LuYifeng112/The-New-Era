@@ -1,0 +1,15 @@
+
+state={
+	id=1380
+	name="STATE_1380"
+	provinces={
+		10957 13225 13674 
+	}
+	history = {
+		owner = NMB
+		add_core_of = NMB
+	}
+	manpower=143903
+	state_category = town
+	buildings_max_level_factor=1.000
+}

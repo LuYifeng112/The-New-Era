@@ -12,6 +12,7 @@ state={
 			infrastructure = 5
 			industrial_complex = 6
 		}
+		victory_points = { 15166 10 }
 	}
 	manpower=2245059
 	state_category = metropolis

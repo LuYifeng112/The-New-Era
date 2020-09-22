@@ -9,6 +9,6 @@ state={
 		add_core_of = JAP
 	}
 	manpower=8823358
-	state_category = megapolis
+	state_category = megalopolis
 	buildings_max_level_factor=1.000
 }

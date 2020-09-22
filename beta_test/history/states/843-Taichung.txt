@@ -12,7 +12,11 @@ state={
 			infrastructure = 4
 			arms_factory = 1
 			industrial_complex = 4
+			11959 = {
+				naval_base = 8
+			}
 		}
+		victory_points = { 11959 25 } #Taichung
 	}
 	manpower=2816667
 	state_category = metropolis

@@ -1,0 +1,14 @@
+state={
+	id=1353
+	name="STATE_1353"
+	provinces={
+		2159 6034 9158 10972 
+	}
+	history = {
+		owner = MZB
+		add_core_of = MZB
+	}
+	manpower=1865976
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

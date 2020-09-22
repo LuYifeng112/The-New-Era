@@ -9,6 +9,14 @@ state={
 		owner=CHI
 		add_core_of=CHI
 		add_core_of=PRC
+		victory_points = { 15164 15 }
+		buildings = {
+			15164 = {
+				naval_base = 8
+				coastal_bunker = 1
+			}
+		}
+		
 	}
 	manpower=371878
 	buildings_max_level_factor=1.000

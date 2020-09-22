@@ -1,0 +1,14 @@
+state={
+	id=1397
+	name="STATE_1397"
+	provinces={
+		2151 
+	}
+	history = {
+		owner = ZIM
+		add_core_of = ZIM
+	}
+	manpower=1200337
+	state_category = city
+	buildings_max_level_factor=1.000
+}

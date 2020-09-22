@@ -11,6 +11,6 @@ state={
 		add_core_of = MON
 	}
 	manpower=2143590
-	state_category = rurals
+	state_category = rural
 	buildings_max_level_factor=1.000
 }

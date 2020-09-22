@@ -1,0 +1,14 @@
+state={
+	id=1381
+	name="STATE_1381"
+	provinces={
+		5189 12921 13675 
+	}
+	history = {
+		owner = NMB
+		add_core_of = NMB
+	}
+	manpower=86856
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

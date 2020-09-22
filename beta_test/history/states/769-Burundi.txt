@@ -1,0 +1,25 @@
+
+state={
+	id=769
+	name="STATE_769"
+
+	history={
+		owner = BRD
+		add_core_of = BRD
+		victory_points = {
+			2220 1 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		2220 14038 14041 14043 14045 
+	}
+	manpower=2326174
+	buildings_max_level_factor=1.000
+	state_category=city
+}

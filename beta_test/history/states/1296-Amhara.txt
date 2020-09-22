@@ -9,6 +9,6 @@ state={
 		add_core_of = ETH
 	}
 	manpower=20018988
-	state_category = 0
+	state_category = city
 	buildings_max_level_factor=1.000
 }

@@ -1,0 +1,14 @@
+state={
+	id=1309
+	name="STATE_1309"
+	provinces={
+		5210 10761 10976 11687 13784 13785 13786 15071 15074 
+	}
+	history = {
+		owner = KEN
+		add_core_of = KEN
+	}
+	manpower=3325307
+	state_category = city
+	buildings_max_level_factor=1.000
+}

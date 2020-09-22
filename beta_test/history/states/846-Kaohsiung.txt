@@ -20,8 +20,9 @@ state={
 			}
 
 		}
+		victory_points = { 12068 20 } #Kaohshiung
 	}
 	manpower=2773127
-	state_category = megapolis
+	state_category = megalopolis
 	buildings_max_level_factor=1.000
 }

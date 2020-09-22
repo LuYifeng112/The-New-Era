@@ -1,0 +1,14 @@
+state={
+	id=1362
+	name="STATE_1362"
+	provinces={
+		5185 7349 7362 8188 
+	}
+	history = {
+		owner = MAD
+		add_core_of = MAD
+	}
+	manpower=1896000
+	state_category = city
+	buildings_max_level_factor=1.000
+}

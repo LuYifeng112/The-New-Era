@@ -1,0 +1,14 @@
+state={
+	id=1320
+	name="STATE_1320"
+	provinces={
+		14058 
+	}
+	history = {
+		owner = RWA
+		add_core_of = RWA
+	}
+	manpower=1726370
+	state_category = city
+	buildings_max_level_factor=1.000
+}

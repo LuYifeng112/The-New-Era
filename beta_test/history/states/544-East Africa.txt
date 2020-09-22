@@ -1,0 +1,20 @@
+
+state={
+	id=544
+	name="STATE_544"
+
+	history={
+		owner = MZB
+		victory_points = {
+			8245 1 
+		}
+		add_core_of = MZB
+	}
+
+	provinces={
+		8245 
+	}
+	manpower=2507098
+	buildings_max_level_factor=1.000
+	state_category=city
+}
