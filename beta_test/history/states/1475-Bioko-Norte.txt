@@ -1,0 +1,14 @@
+state={
+	id=1475
+	name="STATE_1475"
+	provinces={
+		1903 
+	}
+	history = {
+		owner = EQG
+		add_core_of = EQG
+	}
+	manpower=300374
+	state_category = town
+	buildings_max_level_factor=1.000
+}

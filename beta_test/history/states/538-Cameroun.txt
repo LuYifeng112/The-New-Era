@@ -1,0 +1,25 @@
+
+state={
+	id=538
+	name="STATE_538"
+	resources={
+		rubber=5.000
+	}
+
+	history={
+		owner = COG
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = COG
+
+	}
+
+	provinces={
+		8016 13572 13573 13576 14830 14841 14851 14856 14858 14870 14873 14884 14889 14894 14897 14900 
+	}
+	manpower=1693974
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

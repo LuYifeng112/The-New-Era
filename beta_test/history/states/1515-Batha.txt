@@ -1,0 +1,14 @@
+state={
+	id=1515
+	name="STATE_1515"
+	provinces={
+		4978 14450 14453 14456 14517 14519 14521 14522 14525 
+	}
+	history = {
+		owner = CHA
+		add_core_of = CHA
+	}
+	manpower=488458
+	state_category = city
+	buildings_max_level_factor=1.000
+}

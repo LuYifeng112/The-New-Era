@@ -1,0 +1,14 @@
+state={
+	id=1512
+	name="STATE_1512"
+	provinces={
+		9152 14504 14512 
+	}
+	history = {
+		owner = CHA
+		add_core_of = CHA
+	}
+	manpower=578425
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

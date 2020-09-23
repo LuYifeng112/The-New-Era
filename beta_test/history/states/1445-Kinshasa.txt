@@ -1,0 +1,14 @@
+state={
+	id=1445
+	name="STATE_1445"
+	provinces={
+		14850 
+	}
+	history = {
+		owner = COG
+		add_core_of = COG
+	}
+	manpower=14342000
+	state_category = megalopolis
+	buildings_max_level_factor=1.000
+}

@@ -1,9 +1,10 @@
+
 state={
 	id=539
 	name="STATE_539"
 
 	history={
-		owner = FRA
+		owner = GAB
 		add_core_of = GAB
 		victory_points = {
 			5139 1 
@@ -20,9 +21,9 @@ state={
 	}
 
 	provinces={
-		5139 8207 10948 
+		5139 14649 14653 
 	}
-	manpower=409752
+	manpower=157562
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=large_town
 }

@@ -1,0 +1,14 @@
+state={
+	id=1546
+	name="STATE_1546"
+	provinces={
+		2012 10829 10915 14066 14070 14073 
+	}
+	history = {
+		owner = MLI
+		add_core_of = MLI
+	}
+	manpower=1993615
+	state_category = city
+	buildings_max_level_factor=1.000
+}

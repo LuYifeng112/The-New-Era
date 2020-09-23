@@ -1,0 +1,21 @@
+
+state={
+	id=796
+	name="STATE_796"
+
+	history={
+		owner = ANG
+		victory_points = {
+			2115 1 
+		}
+		add_core_of = ANG
+
+	}
+
+	provinces={
+		2115 13909 
+	}
+	manpower=716076
+	buildings_max_level_factor=1.000
+	state_category=city
+}

@@ -1,0 +1,14 @@
+state={
+	id=1406
+	name="STATE_1406"
+	provinces={
+		697 12677 13615 13620 
+	}
+	history = {
+		owner = ZAM
+		add_core_of ZAM
+	}
+	manpower=902631
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

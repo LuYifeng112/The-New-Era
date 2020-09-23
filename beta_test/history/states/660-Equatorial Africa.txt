@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = FRA
+		owner = CAR
 		add_core_of = CAR
 		victory_points = {
 			12830 1 
@@ -20,9 +20,9 @@ state={
 	}
 
 	provinces={
-		1974 3165 5084 8078 11012 11108 12830 
+		14549 14554 14567 15044 15045 15047 
 	}
-	manpower=1136921
+	manpower=57602
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=town
 }

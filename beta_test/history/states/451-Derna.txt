@@ -1,0 +1,21 @@
+
+state={
+	id=451
+	name="STATE_451"
+
+	history={
+		owner = LBA
+		victory_points = {
+			1130 5 
+		}
+		add_core_of = LBA
+
+	}
+
+	provinces={
+		7082 9992 12025 
+	}
+	manpower=163351
+	buildings_max_level_factor=1.000
+	state_category=city
+}

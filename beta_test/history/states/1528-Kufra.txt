@@ -1,0 +1,14 @@
+state={
+	id=1528
+	name="STATE_1528"
+	provinces={
+		1057 4191 6759 10104 
+	}
+	history = {
+		owner = LBA
+		add_core_of = LBA
+	}
+	manpower=50104
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

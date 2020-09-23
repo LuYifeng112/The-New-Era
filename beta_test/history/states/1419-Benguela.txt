@@ -1,0 +1,14 @@
+state={
+	id=1419
+	name="STATE_1419"
+	provinces={
+		12958 13886 13887 
+	}
+	history = {
+		owner = ANG
+		add_core_of = ANG
+	}
+	manpower=2231385
+	state_category = city
+	buildings_max_level_factor=1.000
+}

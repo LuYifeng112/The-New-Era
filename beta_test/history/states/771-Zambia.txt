@@ -1,0 +1,24 @@
+
+state={
+	id=771
+	name="STATE_771"
+	resources={
+		chromium=35.000
+		tungsten=8.000
+	}
+
+	history={
+		owner = ZAM
+		add_core_of = ZAM
+		victory_points = {
+			5199 1 
+		}
+	}
+
+	provinces={
+		7872 10538 13609 
+	}
+	manpower=1041500
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

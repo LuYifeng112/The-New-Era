@@ -1,0 +1,30 @@
+
+state={
+	id=450
+	name="STATE_450"
+
+	history={
+		owner = LBA
+		victory_points = {
+			11954 3 
+		}
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			11954 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = LBA
+
+	}
+
+	provinces={
+		1204 10049 
+	}
+	manpower=203156
+	buildings_max_level_factor=1.000
+	state_category=city
+}

@@ -1,0 +1,14 @@
+state={
+	id=1464
+	name="STATE_1464"
+	provinces={
+		8207 14638 14639 14640 14641 
+	}
+	history = {
+		owner = GAB
+		add_core_of = GAB
+	}
+	manpower=52854
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

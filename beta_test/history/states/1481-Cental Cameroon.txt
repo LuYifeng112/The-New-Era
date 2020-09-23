@@ -1,0 +1,14 @@
+state={
+	id=1481
+	name="STATE_1481"
+	provinces={
+		13549 13550 14587 14589 14594 14599 14601 14602 14606 14608 14613 
+	}
+	history = {
+		owner = CMR
+		add_core_of = CMR
+	}
+	manpower=2311179
+	state_category = city
+	buildings_max_level_factor=1.000
+}

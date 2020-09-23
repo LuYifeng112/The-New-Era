@@ -1,0 +1,14 @@
+state={
+	id=1459
+	name="STATE_1459"
+	provinces={
+		13442 14680 14684 
+	}
+	history = {
+		owner = RCG
+		add_core_of = RCG
+	}
+	manpower=96393
+	state_category = town
+	buildings_max_level_factor=1.000
+}

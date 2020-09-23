@@ -1,0 +1,27 @@
+
+state={
+	id=295
+	name="STATE_295"
+	resources={
+		tungsten=2.000
+	}
+
+	history={
+		owner = COG
+		victory_points = {
+			191 1 
+		}
+		victory_points = {
+			5117 3 
+		}
+		add_core_of = COG
+
+	}
+
+	provinces={
+		7161 10766 10858 13582 14840 14842 14843 14844 14845 14848 14852 14855 14866 14869 14878 14881 14887 14895 14902 14905 14906 14914 14919 14924 14933 14937 
+	}
+	manpower=2049300
+	buildings_max_level_factor=1.000
+	state_category=city
+}

@@ -1,0 +1,14 @@
+state={
+	id=1542
+	name="STATE_1542"
+	provinces={
+		1115 5101 10725 10788 14084 
+	}
+	history = {
+		owner = MLI
+		add_core_of = MLI
+	}
+	manpower=10000
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+}

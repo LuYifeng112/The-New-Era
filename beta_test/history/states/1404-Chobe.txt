@@ -1,0 +1,14 @@
+state={
+	id=1404
+	name="STATE_1404"
+	provinces={
+		15250 
+	}
+	history = {
+		owner = BOT
+		add_core_of = BOT
+	}
+	manpower=23347	
+	state_category = town
+	buildings_max_level_factor=1.000
+}
