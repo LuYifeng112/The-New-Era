@@ -1,0 +1,14 @@
+state={
+	id=1591
+	name="STATE_1591"
+	provinces={
+		13288 
+	}
+	history = {
+		owner = SIE
+		add_core_of = SIE
+	}
+	manpower=1493252
+	state_category = city
+	buildings_max_level_factor=1.000
+}

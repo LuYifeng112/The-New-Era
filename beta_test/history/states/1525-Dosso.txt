@@ -1,14 +1,18 @@
+
 state={
 	id=1525
 	name="STATE_1525"
-	provinces={
-		2056 14277 
-	}
-	history = {
+
+	history={
 		owner = NGR
 		add_core_of = NGR
+
+	}
+
+	provinces={
+		2056 14274 14277 
 	}
 	manpower=2037713
-	state_category = city
 	buildings_max_level_factor=1.000
+	state_category=city
 }

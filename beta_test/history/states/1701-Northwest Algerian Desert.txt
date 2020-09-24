@@ -1,0 +1,18 @@
+
+state={
+	id=1701
+	name="STATE_1701"
+
+	history={
+		owner = ALG
+		add_core_of = ALG
+
+	}
+
+	provinces={
+		1901 2049 4903 4970 5035 5053 8061 8077 9943 12888 
+	}
+	manpower=396885
+	buildings_max_level_factor=1.000
+	state_category=town
+}

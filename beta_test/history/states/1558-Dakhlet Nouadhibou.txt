@@ -1,0 +1,14 @@
+state={
+	id=1558
+	name="STATE_1558"
+	provinces={
+		7992 14126 14127 14132 
+	}
+	history = {
+		owner = MRT
+		add_core_of = MRT
+	}
+	manpower=123779
+	state_category = town
+	buildings_max_level_factor=1.000
+}

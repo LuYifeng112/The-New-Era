@@ -1,0 +1,14 @@
+state={
+	id=1644
+	name="STATE_1644"
+	provinces={
+		14265 
+	}
+	history = {
+		owner = DAH
+		add_core_of = DAH
+	}
+	manpower=741895
+	state_category = town
+	buildings_max_level_factor=1.000
+}

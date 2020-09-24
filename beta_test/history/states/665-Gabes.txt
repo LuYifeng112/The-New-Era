@@ -1,0 +1,25 @@
+
+state={
+	id=665
+	name="STATE_665"
+
+	history={
+		owner = TUN
+		add_core_of = TUN
+		victory_points = {
+			7005 1 
+		}
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		1105 4992 7005 11957 
+	}
+	manpower=1003273
+	buildings_max_level_factor=1.000
+	state_category=city
+}

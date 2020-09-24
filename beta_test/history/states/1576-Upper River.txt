@@ -1,0 +1,14 @@
+state={
+	id=1576
+	name="STATE_1576"
+	provinces={
+		14091 
+	}
+	history = {
+		owner = GAM
+		add_core_of = GAM
+	}
+	manpower=239916
+	state_category = town
+	buildings_max_level_factor=1.000
+}

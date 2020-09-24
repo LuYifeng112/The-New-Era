@@ -1,0 +1,25 @@
+
+state={
+	id=778
+	name="STATE_778"
+
+	history={
+		owner = VOL
+		add_core_of = VOL
+		victory_points = {
+			10836 1 
+		}
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		7950 14194 
+	}
+	manpower=968442
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,14 @@
+state={
+	id=1617
+	name="STATE_1617"
+	provinces={
+		13691 14181 
+	}
+	history = {
+		owner = VOL
+		add_core_of = VOL
+	}
+	manpower=620767
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

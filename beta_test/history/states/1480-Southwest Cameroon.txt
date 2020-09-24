@@ -1,14 +1,18 @@
+
 state={
 	id=1480
 	name="STATE_1480"
-	provinces={
-		9137 13627 14600 14604 14607 
-	}
-	history = {
+
+	history={
 		owner = CMR
 		add_core_of = CMR
+
+	}
+
+	provinces={
+		9137 10831 13627 14600 14604 14607 
 	}
 	manpower=1481433
-	state_category = large_town
 	buildings_max_level_factor=1.000
+	state_category=large_town
 }

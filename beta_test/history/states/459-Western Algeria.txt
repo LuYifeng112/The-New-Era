@@ -1,0 +1,23 @@
+
+state={
+	id=459
+	name="STATE_459"
+	resources={
+		steel=26.000
+	}
+
+	history={
+		owner = ALG
+		add_core_of = ALG
+		victory_points = {
+			1145 25
+		}
+	}
+
+	provinces={
+		1145 
+	}
+	manpower=2947461
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

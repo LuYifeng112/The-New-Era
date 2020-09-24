@@ -1,0 +1,14 @@
+state={
+	id=1751
+	name="STATE_1751"
+	provinces={
+		7900 
+	}
+	history = {
+		owner = ESW
+		add_core_of = ESW
+	}
+	manpower=1136000
+	state_category = city
+	buildings_max_level_factor=1.000
+}

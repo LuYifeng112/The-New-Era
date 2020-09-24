@@ -1,0 +1,14 @@
+state={
+	id=1583
+	name="STATE_1583"
+	provinces={
+		13778 15251
+	}
+	history = {
+		owner = GNB 
+		add_core_of = GNB
+	}
+	manpower=94939
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

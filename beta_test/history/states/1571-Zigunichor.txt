@@ -1,0 +1,18 @@
+
+state={
+	id=1571
+	name="STATE_1571"
+
+	history={
+		owner = SEN
+		add_core_of = SEN
+
+	}
+
+	provinces={
+		12834 14085 
+	}
+	manpower=549151
+	buildings_max_level_factor=1.000
+	state_category=town
+}

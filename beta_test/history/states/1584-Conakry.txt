@@ -1,0 +1,14 @@
+state={
+	id=1584
+	name="STATE_1584"
+	provinces={
+		1909 
+	}
+	history = {
+		owner = GNA 
+		add_core_of = GNA
+	}
+	manpower=1660973
+	state_category = city
+	buildings_max_level_factor=1.000
+}

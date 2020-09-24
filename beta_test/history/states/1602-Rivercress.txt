@@ -1,0 +1,14 @@
+state={
+	id=1602
+	name="STATE_1602"
+	provinces={
+		8006 
+	}
+	history = {
+		owner = LIB
+		add_core_of = LIB
+	}
+	manpower=65862
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

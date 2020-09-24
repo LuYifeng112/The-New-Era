@@ -1,14 +1,18 @@
+
 state={
 	id=1467
 	name="STATE_1467"
-	provinces={
-		13445 14643 14644 14648 14654 14656 14688 
-	}
-	history = {
+
+	history={
 		owner = GAB
 		add_core_of = GAB
+
+	}
+
+	provinces={
+		13445 14643 14644 14648 14654 14656 
 	}
 	manpower=250799
-	state_category = large_town
 	buildings_max_level_factor=1.000
+	state_category=large_town
 }

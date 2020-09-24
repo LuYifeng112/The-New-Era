@@ -1,0 +1,15 @@
+state={
+	id=1748
+	name="STATE_1748"
+	provinces={
+		12100 
+	}
+	history = {
+		owner = SPR
+		add_core_of = SPR
+		add_claim_by = MOR
+	}
+	manpower=84689
+	state_category = city
+	buildings_max_level_factor=1.000
+}

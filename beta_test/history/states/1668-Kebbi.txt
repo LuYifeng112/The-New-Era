@@ -1,0 +1,14 @@
+state={
+	id=1668
+	name="STATE_1668"
+	provinces={
+		12900 14396 14408 14414 14420 14436 
+	}
+	history = {
+		owner = NGA
+		add_core_of = NGA
+	}
+	manpower=3256541
+	state_category = city
+	buildings_max_level_factor=1.000
+}

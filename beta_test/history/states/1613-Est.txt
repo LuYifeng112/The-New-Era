@@ -1,0 +1,14 @@
+state={
+	id=1613
+	name="STATE_1613"
+	provinces={
+		2001 14189 14195 
+	}
+	history = {
+		owner = VOL
+		add_core_of = VOL
+	}
+	manpower=1416229
+	state_category = city	
+	buildings_max_level_factor=1.000
+}

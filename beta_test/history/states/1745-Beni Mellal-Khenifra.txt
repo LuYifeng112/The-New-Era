@@ -1,0 +1,14 @@
+state={
+	id=1745
+	name="STATE_1745"
+	provinces={
+		1079 4084 10023 
+	}
+	history = {
+		owner = MOR
+		add_core_of = MOR
+	}
+	manpower=2520776
+	state_category = city
+	buildings_max_level_factor=1.000
+}

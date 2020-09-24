@@ -1,0 +1,32 @@
+
+state={
+	id=296
+	name="STATE_296"
+	resources={
+		rubber=1.000
+	}
+
+	history={
+		owner = GNB
+		add_core_of = GNB
+		victory_points = {
+			12891 1 
+		}
+		buildings = {
+			infrastructure = 2
+			12891 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		13781 13782 
+	}
+	manpower=192508
+	buildings_max_level_factor=1.000
+	state_category=town
+}

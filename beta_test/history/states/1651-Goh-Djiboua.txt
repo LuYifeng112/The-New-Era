@@ -1,0 +1,14 @@
+state={
+	id=1651
+	name="STATE_1651"
+	provinces={
+		13696 14198 
+	}
+	history = {
+		owner = IVO
+		add_core_of = IVO
+	}
+	manpower=1605286
+	state_category = city
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,14 @@
+state={
+	id=1714
+	name="STATE_1714"
+	provinces={
+		9964 
+	}
+	history = {
+		owner = ALG
+		add_core_of = ALG
+	}
+	manpower=591010
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

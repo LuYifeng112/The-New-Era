@@ -1,0 +1,14 @@
+state={
+	id=1699
+	name="STATE_1699"
+	provinces={
+		1958 7041 8088 
+	}
+	history = {
+		owner = ALG
+		add_core_of = ALG
+	}
+	manpower=940166
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

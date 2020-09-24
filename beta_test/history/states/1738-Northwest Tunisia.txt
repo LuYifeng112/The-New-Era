@@ -1,0 +1,14 @@
+state={
+	id=1738
+	name="STATE_1738"
+	provinces={
+		1046 4163 
+	}
+	history = {
+		owner = TUN
+		add_core_of = TUN
+	}
+	manpower=1170752
+	state_category = city
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,14 @@
+state={
+	id=1635
+	name="STATE_1635"
+	provinces={
+		14257 14258 
+	}
+	history = {
+		owner = TOG
+		add_core_of = TOG
+	}
+	manpower=617871
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

@@ -22,7 +22,7 @@ state={
 	provinces={
 		4989 
 	}
-	manpower=199520
+	manpower=413397
 	buildings_max_level_factor=1.000
-	state_category=enclave
+	state_category=large_city
 }

@@ -1,0 +1,17 @@
+
+state={
+	id=786
+	name="STATE_786"
+
+	history={
+		owner = MRT
+		add_core_of = MRT
+	}
+
+	provinces={
+		10779 10838 14133 14134 
+	}
+	manpower=53261
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}
