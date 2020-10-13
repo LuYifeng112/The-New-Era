@@ -1,0 +1,14 @@
+state={
+	id=1780
+	name="STATE_1780"
+	provinces={
+		3958 3968 6972 9856 
+	}
+	history = {
+		owner = ITA
+		add_core_of = ITA
+	}
+	manpower=562869
+	state_category = city	
+	buildings_max_level_factor=1.000
+}

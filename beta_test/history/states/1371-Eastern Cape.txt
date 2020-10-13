@@ -1,14 +1,18 @@
+
 state={
 	id=1371
 	name="STATE_1371"
+
+	history={
+		owner = SAF
+		add_core_of = SAF
+
+	}
+
 	provinces={
 		1005 1833 4556 4584 7576 13637 13641 13642 
 	}
-	history = {
-		owner = SAF
-		add_core_of = SAF
-	}
 	manpower=6562053
-	state_category = city
 	buildings_max_level_factor=1.000
+	state_category=city
 }

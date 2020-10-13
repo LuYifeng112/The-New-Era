@@ -23,6 +23,8 @@ set_variable = {
 	militarism = 74
 }
 
+set_country_flag = ARAB_winter
+
 	set_popularities = {
 		communism = 3
 		islamism = 4

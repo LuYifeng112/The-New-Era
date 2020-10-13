@@ -1,0 +1,20 @@
+
+state={
+	id=7
+	name="STATE_7"
+	resources={
+		steel=4.000
+	}
+
+	history={
+		owner = HOL
+		add_core_of = HOL
+	}
+
+	provinces={
+		68 3314 
+	}
+	manpower=2877909
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

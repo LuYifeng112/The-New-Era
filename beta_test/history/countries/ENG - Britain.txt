@@ -1,20 +1,28 @@
 ﻿capital = 126
 
-set_research_slots = 4
-set_stability = 0.6
-set_war_support = 0.1
 #Starting tech
 set_technology = {
 	infantry_weapons = 1
 }
-set_convoys = 200
 
 
-#NATO
+set_research_slots = 4
+set_convoys = 250
+set_stability = 0.7 
+set_war_support = 0.2
 
-set_country_flag = NATO_member
-set_country_flag = permanent_member_of_UNSC
-set_country_flag = nuclear_state
+set_variable = {
+	corruption = 77
+}
+set_variable = {
+	anarchism = 38
+}
+set_variable = {
+	democracy = 85
+}
+set_variable = {
+	militarism = 59
+}
 
 ENG = { diplomatic_relation = { country = FRA relation = military_access active = yes } }   #France
 ENG = { diplomatic_relation = { country = CAN relation = military_access active = yes } }   #Canada
@@ -42,28 +50,31 @@ ENG = { diplomatic_relation = { country = ROM relation = military_access active 
 ENG = { diplomatic_relation = { country = SLO relation = military_access active = yes } }   #Slovakia
 ENG = { diplomatic_relation = { country = SLV relation = military_access active = yes } }   #Slovenia
 
+ENG = { diplomatic_relation = { country = POR relation = guarantee active = yes } }
+ENG = { diplomatic_relation = { country = POR relation = non_aggression_pact active = yes}}
+
 	set_popularities = {
-		democratic = 5 
-		conservative = 30
-		progressive = 40
-		centrist = 0
-		socialist = 5
-		liberalism = 20
+		democratic = 32 
+		conservative = 44
+		nationalist = 2
+		liberalism = 22
 	}
 	set_politics = {
-	ruling_party = democratic
-	last_election = "1936.1.1"
+	ruling_party = conservative
+	last_election = "2019.12.12"
 	election_frequency = 48
 	elections_allowed = yes
 }
 create_country_leader = {
-	name = "Leader of UK"
-	desc = "POLITICS_STANLEY_BALDWIN_DESC"
-	picture = "gfx//leaders//ENG//Portrait_Britain_Stanley_Baldwin.dds"
-	expire = "1938.1.1"
-	ideology = social_demo
+	name = "Boris Johnson"
+	desc = "POLITICS_BORIS_JOHNSON_DESC"
+	picture = "gfx//leaders//ENG//ENG_Boris_Johnson.dds"
+	expire = "2030.1.1"
+	ideology = conservatism
 	traits = {
-		conservative_grandee
+		ENG_pro_brexit_policy
+		ENG_pro_union
+		ENG_pro_chinese
 	}
 }
 

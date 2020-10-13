@@ -1,0 +1,25 @@
+
+state={
+	id=71
+	name="STATE_71"
+
+	history={
+		victory_points = {
+			3581 3 
+		}
+		owner = SLO
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+
+		}
+		add_core_of = SLO
+	}
+
+	provinces={
+		6561 11522 11679 
+	}
+	manpower=676672
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

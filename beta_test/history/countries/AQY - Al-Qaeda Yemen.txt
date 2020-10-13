@@ -27,14 +27,14 @@ add_to_array = {
 	value = AQY
 }
 
-declare_war_on = {
-	target = YEM
-	type = civil_war
-}
-declare_war_on = {
-	target = HOU
-	type = civil_war
-}
+#declare_war_on = {
+	#target = YEM
+	#type = civil_war
+#}
+#declare_war_on = {
+	#target = HOU
+	#type = civil_war
+#}
 #declare_war_on = {
 	#target = STC
 	#type = civil_war

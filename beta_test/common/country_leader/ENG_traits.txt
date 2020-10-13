@@ -1,0 +1,213 @@
+leader_traits = {
+
+	ENG_pro_brexit_policy = {
+		random = no
+
+		democracy_acceptance = -20
+
+		ai_strategy = {
+			type = antagonize
+			id = IRE
+			value = 40
+		}
+
+		ai_strategy = {
+			type = antagonize
+			id = SPR
+			value = 40
+		}
+
+		ai_strategy = {
+			type = ignore
+			id = BEL
+			value = 80
+		}
+
+		ai_strategy = {
+			type = ignore
+			id = HOL 
+			value = 80
+		}
+
+		ai_strategy = {
+			type = ignore
+			id = FRA
+			value = 20
+		}
+
+		ai_strategy = {
+			type = ignore
+			id = SPR
+			value = 80
+		}
+
+		ai_strategy = {
+			type = ignore
+			id = POR
+			value = 20
+		}
+
+		ai_strategy = {
+			type = ignore
+			id = GER 
+			value = 40
+		}
+
+		ai_strategy = {
+			type = ignore
+			id = AUS
+			value = 80
+		}
+
+		ai_strategy = {
+			type = ignore
+			id = ITA
+			value = 60
+		}
+
+		ai_strategy = {
+			type = ignore
+			id = SLV
+			value = 80
+		}
+
+		ai_strategy = {
+			type = ignore
+			id = CRO
+			value = 80
+		}
+
+		ai_strategy = {
+			type = ignore
+			id = BOS 
+			value = 80
+		}
+
+		ai_strategy = {
+			type = ignore
+			id = MNT
+			value = 80
+		}
+
+		ai_strategy = {
+			type = ignore
+			id = KOS
+			value = 80
+		}
+
+		ai_strategy = {
+			type = ignore
+			id = YUG
+			value = 80
+		}
+
+		ai_strategy = {
+			type = ignore
+			id = ALB
+			value = 80
+		}
+
+		ai_strategy = {
+			type = ignore
+			id = GRE
+			value = 80
+		}
+
+		ai_strategy = {
+			type = ignore
+			id = BUL 
+			value = 80
+		}
+
+		ai_strategy = {
+			type = ignore
+			id = ROM 
+			value = 150
+		}
+
+		ai_strategy = {
+			type = ignore
+			id = POL 
+			value = 150
+		}
+
+		ai_strategy = {
+			type = ignore
+			id = SLO
+			value = 150
+		}
+
+		ai_strategy = {
+			type = ignore
+			id = DEN 
+			value = 80
+		}
+
+		ai_strategy = {
+			type = ignore
+			id = NOR 
+			value = 40
+		}
+
+		ai_strategy = {
+			type = ignore
+			id = SWE 
+			value = 100
+		}
+
+		ai_strategy = {
+			type = ignore
+			id = FIN 
+			value = 80
+		}
+
+		ai_strategy = {
+			type = ignore
+			id = BLR
+			value = 200
+		}
+
+		ai_strategy = {
+			type = ignore
+			id = UKR 
+			value = 200
+		}
+
+		ai_strategy = {
+			type = ignore
+			id = SWI 
+			value = 80
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	ENG_pro_union = {
+		random = no
+
+		centralization_index = 5
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	ENG_pro_chinese = {
+		random = no
+
+		liberal_acceptance = 20
+		chinese_socialism_acceptance = 10
+		ai_strategy = {
+			type = befriend
+			id = PRC
+			value = 200
+		}
+
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

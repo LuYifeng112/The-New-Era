@@ -1,0 +1,14 @@
+state={
+	id=1784
+	name="STATE_1784"
+	provinces={
+		679 6670 6700 9656 11625 11644 11646 
+	}
+	history = {
+		owner = HUN
+		add_core_of = HUN
+	}
+	manpower=1262936
+	state_category = city
+	buildings_max_level_factor=1.000
+}

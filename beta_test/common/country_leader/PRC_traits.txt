@@ -1,0 +1,81 @@
+leader_traits = {
+		one_country_two_systems = {
+		random = no
+
+		ai_strategy = {
+			type = consider_weak
+			id = CHI
+			type = 800
+		}
+		ai_strategy = {
+			type = antagonize
+			id = CHI
+			type = 800
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	eight_point_doctrine = {
+		random = no
+
+		ai_strategy = {
+			type = prepare_for_war
+			value = -100
+		}
+		ai_strategy = {
+			type = contain
+			value = -100
+		}
+		ai_desired_divisions_factor = -2
+
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	PRC_hawk = {
+		random = no
+
+		ai_strategy = {
+			type = prepare_for_war
+			value = 2000
+		}
+		training_time_army_factor = -0.15
+		experience_gain_army = 0.1
+		special_forces_attack_factor = 0.2
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	PRC_china_national_destiny = {
+		random = no
+
+		ai_focus_aggressive_factor = 0.5
+		ai_desired_divisions_factor = 3
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	PRC_anti_american = {
+		random = no
+
+		max_command_power = 20
+		mobilization_speed = 0.1
+		targeted_modifier = { tag = USA defense_bonus_against = 0.1 }
+		targeted_modifier = { tag = PHI attack_bonus_against = 0.1 }
+		targeted_modifier = { tag = JAP attack_bonus_against = 0.1 }
+		targeted_modifier = { tag = VIN attack_bonus_against = 0.1 }
+
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

@@ -1,0 +1,14 @@
+state={
+	id=1754
+	name="STATE_1754"
+	provinces={
+		1173 1205 4193 12001 
+	}
+	history = {
+		owner = GRE
+		add_core_of = GRE
+	}
+	manpower=679796
+	state_category = city
+	buildings_max_level_factor=1.000
+}

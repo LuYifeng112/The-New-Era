@@ -1,0 +1,14 @@
+state={
+	id=1768
+	name="STATE_1768"
+	provinces={
+		9809 9821 
+	}
+	history = {
+		owner = MNT
+		add_core_of = MNT
+	}
+	manpower=146784
+	state_category = town
+	buildings_max_level_factor=1.000
+}

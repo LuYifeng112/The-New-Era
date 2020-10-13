@@ -6,10 +6,18 @@ BRU_Melayu_islam:0 "Melayu Islam Beraja"
 BRU_gradual_democratiser:0 "Gradual Democratiser"
 
 Look_East_Policy:0 "Look East Policy"
-PRC_cooperation:0 "Pro One China Policy"
 highly_credential:0 "Highly Credentialed"
 
-CAM_corrupt:0 "Corrupt Dealbreaker"
+CAM_corrupt:0 "Corrupt Dealbroker"
 CAM_former_puppet_leader:0 "Former Vietnamese Puppet Leader"
 CAM_repressive:0 "Repressive Authoritarian"
 CAM_anti_coup:0 "Guarded Ruler"
+
+ENG_pro_brexit_policy:0 "Pro-Brexit Policy"
+ENG_pro_union:0 "Pro-Unionist"
+ENG_pro_chinese:0 "Pro-Chinese Economic Relations"
+
+PRC_china_national_destiny:0 "Sino-Supremacist"
+PRC_hawk:0 "Aggressive Military Hawk"
+PRC_cooperation:0 "Pro One China Policy"
+PRC_anti_american:0 "Pacific Hegemonist"

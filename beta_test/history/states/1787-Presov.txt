@@ -1,0 +1,14 @@
+state={
+	id=1787
+	name="STATE_1787"
+	provinces={
+		3581 6586 6604 
+	}
+	history = {
+		owner = SLO
+		add_core_of = SLO
+	}
+	manpower= 825022
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

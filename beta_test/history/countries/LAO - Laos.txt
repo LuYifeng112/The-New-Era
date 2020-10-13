@@ -4,23 +4,29 @@
 set_technology = {
 	infantry_weapons = 1
 }
-#########################################################################################                                                                                       
-  ####   #####    ####     ##    #    #  #   ####     ##    #####  #   ####   #    #   ####  
- #    #  #    #  #    #   #  #   ##   #  #  #        #  #     #    #  #    #  ##   #  #      
- #    #  #    #  #       #    #  # #  #  #   ####   #    #    #    #  #    #  # #  #   ####  
- #    #  #####   #  ###  ######  #  # #  #       #  ######    #    #  #    #  #  # #       # 
- #    #  #   #   #    #  #    #  #   ##  #  #    #  #    #    #    #  #    #  #   ##  #    # 
-  ####   #    #   ####   #    #  #    #  #   ####   #    #    #    #   ####   #    #   ####  
- ##########################################################################################
- set_country_flag = OBOR
- add_to_array = {
-    array = OBOR
-    value = LAO
+set_research_slots = 2
+set_convoys = 70
+set_stability = 0.6 
+set_war_support = 0.4
+
+set_variable = {
+	corruption = 29
+}
+set_variable = {
+	anarchism = 77
+}
+set_variable = {
+	democracy = 21
+}
+set_variable = {
+	militarism = 57
 }
 
-################### ORG #########################
-set_country_flag = ASEAN
-###############################################
+save_global_event_target_as = PACE_current_laos_leader
+add_to_array = {
+	array = global.laos_tags_array
+	value = LAO
+}
 	set_popularities = {
 		communism = 100
 	}

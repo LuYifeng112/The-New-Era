@@ -1,0 +1,14 @@
+state={
+	id=1770
+	name="STATE_1770"
+	provinces={
+		596 665 3654 6650 6672 
+	}
+	history = {
+		owner = SLV
+		add_core_of = SLV
+	}
+	manpower=1084300
+	state_category = city
+	buildings_max_level_factor=1.000
+}

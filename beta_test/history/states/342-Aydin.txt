@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = TUR
+		owner = HOL
 		victory_points = {
 			1005 1 
 		}
@@ -20,14 +20,14 @@ state={
 			}
 
 		}
-		add_core_of = TUR
+		add_core_of = HOL
 
 	}
 
 	provinces={
-		1119 1122 4127 12096 
+		6241 9363 11456 
 	}
-	manpower=362689
+	manpower=2084478
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=city
 }

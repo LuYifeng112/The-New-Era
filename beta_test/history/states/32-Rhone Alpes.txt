@@ -1,0 +1,30 @@
+
+state={
+	id=32
+	name="STATE_32"
+	resources={
+		steel=30.000
+		aluminium=30.000
+	}
+
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			3768 1 
+		}
+		add_core_of = OCC
+		add_core_of = FRA
+
+	}
+
+	provinces={
+		539 553 3579 6449 6599 9550 11521 11535 
+	}
+	manpower=1453000
+	buildings_max_level_factor=1.000
+	state_category=city
+}

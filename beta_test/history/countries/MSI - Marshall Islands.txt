@@ -1,4 +1,4 @@
-﻿capital = 647
+﻿capital = 633
 
 
 # Starting tech

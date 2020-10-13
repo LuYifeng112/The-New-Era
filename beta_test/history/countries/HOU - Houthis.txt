@@ -22,6 +22,7 @@ set_variable = {
 	militarism = 46
 }
 
+set_country_flag = ARAB_winter
 
 declare_war_on = {
 	target = YEM

@@ -1,0 +1,14 @@
+state={
+	id=1790
+	name="STATE_1790"
+	provinces={
+		516 
+	}
+	history = {
+		owner = BEL
+		add_core_of = BEL
+	}
+	manpower=2500000
+	state_category = metropolis
+	buildings_max_level_factor=1.000
+}

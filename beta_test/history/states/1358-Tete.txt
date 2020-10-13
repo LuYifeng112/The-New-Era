@@ -1,14 +1,18 @@
+
 state={
 	id=1358
 	name="STATE_1358"
+
+	history={
+		owner = MZB
+		add_core_of = MZB
+
+	}
+
 	provinces={
 		5155 11170 12013 12950 
 	}
-	history = {
-		owner = MZB
-		add_core_of = MZB
-	}
 	manpower=2764169
-	state_category = large_town
 	buildings_max_level_factor=1.000
+	state_category=large_town
 }

@@ -1,0 +1,14 @@
+state={
+	id=1759
+	name="STATE_1759"
+	provinces={
+		867 
+	}
+	history = {
+		owner = MAC
+		add_core_of = MAC
+	}
+	manpower=319532
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

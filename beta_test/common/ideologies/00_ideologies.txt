@@ -162,6 +162,10 @@ ideologies = {
 
 			hindutva = {
 			}
+
+			chinese_ultranationalism = {
+
+			}
 		}
 		
 		dynamic_faction_names = {
@@ -305,6 +309,10 @@ ideologies = {
 			}
 
 			Far_right_conservative = {
+			}
+
+			militarist = {
+
 			}
 			
 		}
@@ -902,7 +910,7 @@ ideologies = {
 	ai_democratic = yes		
 	}
 #####################################################################
-	Chinese_socialism = {
+	chinese_socialism = {
 		ai_communist = yes
 		types = {
 		

@@ -1,0 +1,43 @@
+﻿capital = 1197
+
+#Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_research_slots = 3
+set_convoys = 60
+set_stability = 0.6 
+set_war_support = 0.4
+
+set_variable = {
+	corruption = 71
+}
+set_variable = {
+	anarchism = 38
+}
+set_variable = {
+	democracy = 28
+}
+set_variable = {
+	militarism = 71
+}
+set_popularities = {
+		monarchist = 100
+	}
+set_politics = {
+	ruling_party = monarchist
+	last_election = "2020.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+create_country_leader = {
+	
+	name = "Khalifa bin Zayed Al Nahyan"
+	desc = "POLITICS_KHALIFA_BIN_ZAYED_AL_NAYHAN_DESC"
+	picture = "gfx/leaders/UAE/UAE_khalifa_bin_zayed.dds"
+	ideology = absolute_monarchist
+	traits = {
+		#
+	}
+}
