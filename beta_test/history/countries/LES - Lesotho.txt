@@ -23,12 +23,26 @@ set_variable = {
 }
 
 	set_popularities = {
-		democratic = 100
+		nationalist = 37
+		democratic = 48
+		social_liberal = 15
 	}
 	set_politics = {
-	ruling_party = democratic
-	last_election = "1936.1.1"
+	ruling_party = nationalist
+	last_election = "2017.6.3"
 	election_frequency = 48
 	elections_allowed = yes
+}
+
+
+create_country_leader = {
+	name = "Tom Thabane"
+	desc = "POLITICS_TOM_THABANE_DESC"
+	picture = "gfx/leaders/LES/LES_tom_thabane.dds"
+	ideology = national_democrat
+	expire = "2020.5.14"
+	traits = {
+		
+	}
 }
 

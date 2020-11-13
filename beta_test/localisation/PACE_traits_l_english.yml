@@ -13,11 +13,28 @@ CAM_former_puppet_leader:0 "Former Vietnamese Puppet Leader"
 CAM_repressive:0 "Repressive Authoritarian"
 CAM_anti_coup:0 "Guarded Ruler"
 
+DJI_linguist:0 "Agile Linguist"
+DJI_former_secret_service:0 "Former Security Service Member"
+DJI_detainer:0 "Detainer of Political Opponents"
+
 ENG_pro_brexit_policy:0 "Pro-Brexit Policy"
 ENG_pro_union:0 "Pro-Unionist"
 ENG_pro_chinese:0 "Pro-Chinese Economic Relations"
+
+ESW_indisciplined_ruler:0 "Indisciplined Monarch"
+ESW_luxury_corruption:0 "Corrupt Life of Luxury"
+ESW_indomitable_despot:0 "Indomitable Despot"
 
 PRC_china_national_destiny:0 "Sino-Supremacist"
 PRC_hawk:0 "Aggressive Military Hawk"
 PRC_cooperation:0 "Pro One China Policy"
 PRC_anti_american:0 "Pacific Hegemonist"
+
+SML_af_pilot:0 "Former Air Force Pilot"
+SML_struggle_somaliland:0 "Former Independance Fighter for Somaliland"
+
+SSD_failed_reformer:0 "Failed Reformer"
+SSD_military_background:0 "Military Background of the Sudanese Civil War"
+SSD_ethnic_violence:0 "Inciter of Ethnic Violence"
+SSD_journalist_butcher:0 "Butcher of Journalists"
+SSD_east_africa:0 "East African Brotherhood"

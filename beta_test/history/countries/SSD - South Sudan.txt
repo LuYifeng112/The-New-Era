@@ -5,48 +5,45 @@ set_technology = {
 	infantry_weapons = 1
 }
 
-1301 = {
-	start_resistance = yes
-	set_compliance = 10
-	set_resistance = 15
-	set_garrison_strength = 0.75
+set_research_slots = 2
+set_convoys = 0
+set_stability = 0.3 
+set_war_support = 0.2
+
+set_variable = {
+	corruption = 0
 }
-1297 = {
-	start_resistance = yes
-	set_compliance = 5
-	set_resistance = 16
-	set_garrison_strength = 0.55
+set_variable = {
+	anarchism = 0
 }
-1304 = {
-	start_resistance = yes
-	set_compliance = 4
-	set_resistance = 47
-	set_garrison_strength = 0.3
+set_variable = {
+	democracy = 0
 }
-1265 = {
-	start_resistance = yes
-	set_compliance = 10
-	set_resistance = 22
-	set_garrison_strength = 0.8
+set_variable = {
+	militarism = 0
 }
 
-
-	set_popularities = {
-		democratic = 100
-	}
-	set_politics = {
-	ruling_party = democratic
-	last_election = "1936.1.1"
+set_popularities = {
+	democratic = 2
+	neutrality = 98
+}
+set_politics = {
+	ruling_party = neutrality
+	last_election = "2010.1.1"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 create_country_leader = {
 	
-	name = "Omar al-Bashir"
-	desc = "POLITICS_OMAR_AL-bASHIR_DESC"
-	picture = "gfx//leaders//Africa//Portrait_Africa_Generic_2.dds"
-	ideology = islamic_authoritarian
+	name = "Salva Kiir Mayardit"
+	desc = "POLITICS_SALVA_KIIR_MAYARDIT_DESC"
+	picture = "gfx/leaders/SSD/SSD_Salva.dds"
+	ideology = big_tent
 	traits = {
-		#
+		SSD_failed_reformer
+		SSD_military_background
+		SSD_ethnic_violence
+		SSD_journalist_butcher
+		SSD_east_africa
 	}
 }

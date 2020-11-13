@@ -1,0 +1,14 @@
+state={
+	id=1797
+	name="STATE_1797"
+	provinces={
+		6470 
+	}
+	history = {
+		owner = CZE
+		add_core_of = CZE
+	}
+	manpower=310245
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

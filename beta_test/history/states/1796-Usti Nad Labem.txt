@@ -1,0 +1,15 @@
+
+state={
+	id=1796
+	name="STATE_1796"
+	provinces={
+		3418 3585 11432 
+	}
+	history = {
+		owner = CZE
+		add_core_of = CZE
+	}
+	manpower=830371	
+	state_category = city
+	buildings_max_level_factor=1.000
+}

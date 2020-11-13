@@ -3,7 +3,7 @@ leader_traits = {
 	ENG_pro_brexit_policy = {
 		random = no
 
-		democracy_acceptance = -20
+		democratic_acceptance = -20
 
 		ai_strategy = {
 			type = antagonize
@@ -197,7 +197,7 @@ leader_traits = {
 	ENG_pro_chinese = {
 		random = no
 
-		liberal_acceptance = 20
+		liberalism_acceptance = 20
 		chinese_socialism_acceptance = 10
 		ai_strategy = {
 			type = befriend

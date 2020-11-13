@@ -1,0 +1,29 @@
+leader_traits = {
+	
+	SML_af_pilot = {
+		random = no
+
+		stability_factor = 0.05
+		experience_gain_air_factor = 0.15
+		enemy_army_bonus_air_superiority_factor = -0.15
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	SML_struggle_somaliland = {
+		random = no
+
+		political_power_gain = 0.25
+		ai_focus_defense_factor = 0.1
+		targeted_modifier = {
+			tag = SOM
+			defense_bonus_against = 0.1
+		}
+
+		ai_will_do = {
+		factor = 1
+		}
+	}
+}

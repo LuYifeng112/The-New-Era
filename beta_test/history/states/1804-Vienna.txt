@@ -1,0 +1,15 @@
+
+state={
+	id=1804
+	name="STATE_1804"
+	provinces={
+		11666 13297 
+	}
+	history = {
+		owner = AUS
+		add_core_of = AUS
+	}
+	manpower=2600000
+	state_category = metropolis
+	buildings_max_level_factor=1.000
+}

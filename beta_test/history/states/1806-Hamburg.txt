@@ -1,0 +1,15 @@
+state={
+	id=1806
+	name="STATE_1806"
+	provinces={
+		9347 
+	}
+	history = {
+		owner = GER
+		add_core_of = GER
+		victory_points = { 9347 15 } #Hamburg
+	}
+	manpower=5107429
+	state_category = metropolis
+	buildings_max_level_factor=1.000
+}

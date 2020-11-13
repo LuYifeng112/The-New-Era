@@ -9,8 +9,8 @@ set_technology = {
 set_convoys = 5
 
 set_politics = {
-	ruling_party = democratic
-	last_election = "1936.1.1"
+	ruling_party = nationalist
+	last_election = "2017.6.24"
 	election_frequency = 48
 	elections_allowed = yes
 }
@@ -18,13 +18,13 @@ set_popularities = {
 	neutrality = 100
 }
 
-#create_country_leader = {
-#	
-#	name = "Jonas Lote"
-#	picture = "gfx//leaders//Africa//Portrait_Africa_Generic_2.dds"
-#	expire = "1965.1.1"
-#	ideology = centrism
-#	traits = {
-#		#
-#	}
-#}
+create_country_leader = {
+	
+	name = "James Marape"
+	desc = "POLITICS_JAMES_MARAPE_DESC"
+	picture = "gfx/leaders/PNG/PNG_james_marape.dds"
+	ideology = national_democrat
+	traits = {
+		#
+	}
+}

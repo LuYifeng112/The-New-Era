@@ -1,0 +1,37 @@
+leader_traits = {
+	
+	DJI_linguist = {
+		random = no
+
+		opinion_gain_monthly_factor = 0.15
+		improve_relations_maintain_cost_factor = -0.2
+		trade_opinion_factor = 0.05
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	DJI_former_secret_service = {
+		random = no
+
+		decryption_factor = 0.2
+		encryption_factor = 0.2
+		drift_defence_factor = 0.2
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	DJI_detainer = {
+		random = no
+
+		political_power_gain = 0.25
+		stability_factor = -0.05
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

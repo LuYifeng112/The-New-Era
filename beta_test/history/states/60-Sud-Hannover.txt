@@ -1,0 +1,28 @@
+
+state={
+	id=60
+	name="STATE_60"
+	resources={
+		steel=13.000
+		chromium=3.000
+		tungsten=3.000
+	}
+
+	history={
+		owner = GER
+		victory_points = {
+			3561 5 
+		}
+		victory_points = {
+			425 3 
+		}
+		add_core_of = GER
+	}
+
+	provinces={
+		425 482 538 3500 3561 6501 6524 9497 14006 14009 
+	}
+	manpower=2136752
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

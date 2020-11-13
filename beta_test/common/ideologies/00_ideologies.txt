@@ -206,6 +206,10 @@ ideologies = {
 			
 			moderatism = {
 			}
+
+			big_tent = {
+			
+			}
 		}
 
 		dynamic_faction_names = {
@@ -449,6 +453,9 @@ ideologies = {
 			}
 
 			BHR_monarchy = {
+			}
+
+			ESW_monarchy = {
 			}
 			
 			

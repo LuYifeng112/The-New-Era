@@ -1,0 +1,84 @@
+leader_traits = {
+	
+	SSD_failed_reformer = {
+		random = no
+
+		stability_factor = -0.15
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	SSD_military_background = {
+		random = no
+
+		training_time_army_factor = -0.1
+		experience_gain_army_factor = 0.05
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	SSD_journalist_butcher = {
+		random = no
+
+		drift_defence_factor = 0.25
+		stability_factor = -0.05
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	SSD_ethnic_violence = {
+		random = no
+
+		stability_factor = -0.05
+		war_support_factor = -0.25
+		conscription_factor = -0.1
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	SSD_east_africa = {
+		random = no
+
+		ai_strategy = {
+			type = befriend
+			id = BRD
+			value = 50
+		}
+
+		ai_strategy = {
+			type = befriend
+			id = KEN
+			value = 50
+		}
+
+		ai_strategy = {
+			type = befriend
+			id = RWA
+			value = 50
+		}
+
+		ai_strategy = {
+			type = befriend
+			id = TZN
+			value = 50
+		}
+
+		ai_strategy = {
+			type = befriend
+			id = UGA
+			value = 50
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}	
+}

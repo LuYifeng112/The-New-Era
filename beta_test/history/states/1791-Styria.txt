@@ -1,0 +1,24 @@
+
+state={
+	id=1791
+	name="STATE_1791"
+
+	history={
+		owner = AUS
+		add_core_of = AUS
+		victory_points = {
+			12029 1 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+	}
+
+	provinces={
+		653 6687 6690 9646 9648 9650 9679 
+	}
+	manpower=1246576
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

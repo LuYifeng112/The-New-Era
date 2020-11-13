@@ -1,0 +1,15 @@
+
+state={
+	id=1799
+	name="STATE_1799"
+	provinces={
+		543 5283 9541 11525 
+	}
+	history = {
+		owner = CZE
+		add_core_of = CZE
+	}
+	manpower=637460
+	state_category = city
+	buildings_max_level_factor=1.000
+}

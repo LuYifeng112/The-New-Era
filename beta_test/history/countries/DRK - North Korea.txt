@@ -15,7 +15,7 @@ set_variable = {
 	corruption = 17
 }
 set_variable = {
-	anarchism = 90
+	anarchism = 80
 }
 set_variable = {
 	democracy = 25
@@ -23,7 +23,7 @@ set_variable = {
 set_variable = {
 	militarism = 84
 }
-set_variable = { var = Nomeklatura_influence value = 13 }
+set_variable = { var = Nomenklatura_influence value = 13 }
  
  	set_popularities = {
 		communism = 86 #86
@@ -39,6 +39,7 @@ set_variable = { var = Nomeklatura_influence value = 13 }
 
 add_ideas = {
 	limited_exports
+	DRK_heir_of_korea
 	DRK_sanctions_idea
 	DRK_juche_idea
 	DRK_nomenklatura_idea

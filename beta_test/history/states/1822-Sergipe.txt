@@ -1,0 +1,14 @@
+state={
+	id=1822
+	name="STATE_1822"
+	provinces={
+		8143 
+	}
+	history = {
+		owner = BRA
+		add_core_of = BRA
+	}
+	manpower=2298696
+	state_category = city
+	buildings_max_level_factor=1.000
+}

@@ -24,7 +24,7 @@ leader_traits = {
 	SIK_staunch_anti_communist = {
 		random = no
 
-		communist_acceptance = -20
+		communism_acceptance = -20
 		ai_strategy = {
 			type = antagonize
 			id = PRC

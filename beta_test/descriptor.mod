@@ -12,5 +12,6 @@ tags={
 }
 replace_path="map/strategicregions"
 replace_path="map/supplyareas"
+replace_path="history/states"
 name="Peace and Conflict beta"
 supported_version="1.9.2 beta"

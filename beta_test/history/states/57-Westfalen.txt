@@ -1,0 +1,20 @@
+
+state={
+	id=57
+	name="STATE_57"
+
+	history={
+		owner = GER
+		victory_points = {
+			495 5 
+		}
+		add_core_of = GER
+	}
+
+	provinces={
+		11531 
+	}
+	manpower=990509
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

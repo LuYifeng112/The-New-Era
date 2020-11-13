@@ -57,6 +57,14 @@
  CAM_social_liberal_party:0 "Konabaksa Sampnth Daembi Bracha Thi b te y"
  CAM_social_liberal_party_long:0 "Konabaksa Sampnth Daembi Bracha Thi b te y"
 
+ DJI_socialist_party:0 "Rassemblement populaire pour le Progrès"
+ DJI_socialist_party_long:0 "Rassemblement populaire pour le Progrès"
+ DJI_conservative_party:0 "Union pour le Salut National"
+ DJI_conservative_party_long:0 "Union pour le Salut National"
+
+ DRK_communism_party:0 "Chosŏn Rodongdang"
+ DRK_communism_party_long:0 "Chosŏn Rodongdang"
+
  ENG_conservative_party:0 "Conservative and Unionist Party"
  ENG_conservative_party_long:0 "Conservative and Unionist Party"
  ENG_democratic_party:0 "Labour party"
@@ -65,6 +73,9 @@
  ENG_liberal_party_long:0 "Liberal Democrats"
  ENG_nationalist_party:0 "Scots Nationalist Party"
  ENG_nationaist_party_long:0 "Scots Nationalist Party"
+
+ ESW_monarchist_party:0 "House of Dlamini"
+ ESW_monarchist_party_long:0 "House of Dlamini"
 
  GER_conservative_party:0 "Christlich Demokratische Union Deutschlands"
  GER_conservative_party_long:0 "Christlich Demokratische Union Deutschlands"
@@ -81,9 +92,25 @@
  GER_fascism_party:0 "Nationaldemokratische Partei Deutschlands"
  GER_fascism_party_long:0 "Nationaldemokratische Partei Deutschlands"
 
+
+ LES_nationalist_party:0 "All Bathoso Convention"
+ LES_nationalist_party_long:0 "All Bathoso Convention"
+
  PRC_Chinese_socialism_party:0 "Zhonguo Gong-Chang Dang"
  PRC_Chinese_socialism_party_long:0 "Zhonguo Gong-Chang Dang"
  PRC_radical_right_party:0 "Chinese Officers Adminstration"
  PRC_radical_right_party_long:0 "Chinese Officers Adminstration"
  PRC_fascism_party:0 "Chinese Officers Adminstration"
  PRC_fascism_party_long:0 "Chinese Officers Adminstration"
+
+ SML_social_liberal_party:0 "Xisbiga Kulmiye Nabad, Midnimo iyo Horumarka"
+ SML_social_liberal_party_long:0 "Xisbiga Kulmiye Nabad, Midnimo iyo Horumarka"
+ SML_nationalist_party:0 "Waddani National Party"
+ SML_nationalist_party_long:0 "Waddani National Party"
+ SML_democratic_party:0 "Ururka Caddaalada iyo Daryeelka"
+ SML_democratic_party_long:0 "Ururka Caddaalada iyo Daryeelka"
+
+ SSD_neutrality_party:0 "Alharakat Alshaebiat Litahrir Alsuwdan"
+ SSD_neutralityparty_long:0 "Alharakat Alshaebiat Litahrir Alsuwdan"
+ SSD_democratic_party:0 "Altaghyir Aldiymuqratiu"
+ SSD_democratic_party_long:0 "Altaghyir Aldiymuqratiu"

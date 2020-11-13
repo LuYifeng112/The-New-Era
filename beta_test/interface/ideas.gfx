@@ -103,6 +103,10 @@ spriteTypes = {
 		name = "GFX_idea_DRK_juche_idea"
 		texturefile= "gfx/interface/ideas/DRK_juche.dds"
 	}
+	SpriteType = {
+		name = "GFX_idea_DRK_heir_of_korea"
+		texturefile= "gfx/interface/ideas/DRK_heir.dds"
+	}
 
 	#FRA
 	SpriteType = {

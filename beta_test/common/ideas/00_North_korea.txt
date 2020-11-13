@@ -22,6 +22,29 @@ ideas = {
 			}
 		}
 
+		DRK_heir_of_korea = {
+			allowed = {
+				original_tag = DRK
+			}
+
+			allowed_civil_war = {
+				original_tag = DRK
+				has_government = communism
+				country_exists = KOR
+			}
+
+			removal_cost = -1
+
+			targeted_modifier = { tag = KOR attack_bonus_against = 0.1 }
+			targeted_modifier = { tag = KOR defense_bonus_against = 0.1 }
+
+			modifier = {
+				army_morale_factor = 0.1
+				max_surrender_limit_offset = 0.3
+				annex_cost_factor = -0.2
+			}
+		}
+
 		DRK_songun_idea = { 
 			allowed = {
 				original_tag = DRK
@@ -45,6 +68,7 @@ ideas = {
 		DRK_oversized_military_idea = { 
 			allowed = {
 				original_tag = DRK
+				has_army_manpower = { size > 1000000 }
 			}
 
 			allowed_civil_war = {
@@ -59,6 +83,7 @@ ideas = {
 				max_planning = -0.25
 				army_speed_factor = -0.10
 				supply_consumption_factor = 0.20
+				corruption_index = -5
 				custom_modifier_tooltip = DRK_BIG_MILITARY_tt
 			}
 		}
@@ -79,11 +104,16 @@ ideas = {
 				army_infantry_attack_factor = -0.1
 				motorized_attack_factor = -0.05
 				motorized_defence_factor = -0.05
+				ai_focus_military_advancements_factor = 0.05
+				research_speed_factor = -0.15
+				hidden_modifier = {
+					ai_focus_peaceful_factor = 0.5
+				}
 				custom_modifier_tooltip = DRK_ASYMETRIC_MILITARY_tt
 			}
 		}
 
-		DRK_bad_infra_idea = { #GFX
+		DRK_bad_infra_idea = {
 			allowed = {
 				original_tag = DRK
 			}
@@ -135,7 +165,9 @@ ideas = {
 			modifier = {
 				drift_defence_factor = 0.5
 				conscription = 0.25
-				communism_drift = 0.1	
+				communism_drift = 0.1
+				army_core_attack_factor = 0.1
+				army_core_defence_factor = 0.1	
 				custom_modifier_tooltip = DRK_JUCHE_tt			
 			}
 		}
@@ -150,9 +182,9 @@ ideas = {
 		DRK_nomenklatura_idea = {
 			allowed = {
 				original_tag = DRK
-				#DRK = {
-				#	anarchism < 0.6
-				#}
+				DRK = {
+					check_variable = { var = anarchism value = 60 compare= greater_than}
+				}
 			}
 
 			allowed_civil_war = {
@@ -164,6 +196,7 @@ ideas = {
 				political_power_gain = 1
 				production_factory_efficiency_gain_factor = -0.1
 				production_factory_max_efficiency_factor = -0.1
+				centralization_index = 10
 				custom_modifier_tooltip = DRK_NOMENKALTURA_tt
 			}
 		}
