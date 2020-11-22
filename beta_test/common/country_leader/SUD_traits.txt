@@ -1,0 +1,66 @@
+leader_traits = {
+
+	SUD_popular_reformer = {
+		random = no
+
+		stability_factor = 0.2
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	SUD_anti_basharist = {
+		random = no
+
+		stability_factor = 0.1
+		political_power_factor = 0.15
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	SUD_transitional_government = {
+		random = no
+
+		political_power_gain = 1.5
+		drift_defence_factor = 0.5
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	SUD_agricultural_reformer = {
+		random = no
+
+		MONTHLY_POPULATION = 0.25
+		production_speed_infrastructure_factor = 0.1
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	SUD_technocrat = {
+		random = no
+
+		research_speed_factor = 0.05
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	SUD_pro_womens_rights = {
+		random = no
+
+		stability_factor = 0.05
+		democracy_index = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

@@ -55,4 +55,43 @@ create_country_leader = {
 	desc = "QASIM_AL_RAYMI_DESC"
 	picture = "gfx/leaders/AQY/AQY_QASIM.dds"
 	ideology = islamic_radical
+	traits = {
+		AQY_islamic_fundamentalist
+		AQY_non_conventional
+		AQY_hunted_leader
+	}
+	id = 1
+}
+
+2020.1.29 = {
+	kill_country_leader = yes
+	create_country_leader = {
+		name = "AQAP"
+		desc = "AQY_AQAP_DESC"
+		picture = "gfx/leaders/AQY/AQY_QASIM.dds"
+		ideology = islamic_radical
+		traits = {
+			AQY_islamic_fundamentalist
+			AQY_non_conventional
+			AQY_leaderless
+			AQY_illegitimate
+		}
+		id = 2
+	}
+}
+
+2020.2.23 = {
+	retire_country_leader = yes
+	create_country_leader = {
+		name = "Khalid Batarfi"
+		desc = "QASIM_KHALID_BATARFI_DESC"
+		picture = "gfx/leaders/AQY/AQY_QASIM.dds"
+		ideology = islamic_radical
+		traits = {
+			AQY_islamic_fundamentalist
+			AQY_non_conventional
+			AQY_hunted_leader
+		}
+		id = 3
+	}
 }

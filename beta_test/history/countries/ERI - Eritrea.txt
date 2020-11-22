@@ -1,0 +1,31 @@
+﻿capital = 550
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 10
+
+set_politics = {
+	ruling_party = nationalist
+	last_election = "1993.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	nationalist = 100
+}
+
+create_country_leader = {
+	name = "Isais Afwerki"
+	desc = "POLITICS_ISAIS_AFWERKI_DESC"
+	picture = "gfx/leaders/ERI/ERI_isais_afwerki.dds"
+	ideology = eritrean_nationalism
+	traits = {
+		ERI_infrastrucutre
+		ERI_repressive
+		ERI_hermit
+		ERI_enigma
+	}
+}

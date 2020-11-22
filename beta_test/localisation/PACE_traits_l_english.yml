@@ -1,5 +1,10 @@
 ﻿l_english:
 
+AQY_islamic_fundamentalist:0 "Islamic Fundamentalist"
+AQY_non_conventional:0 "Non-Conventional Warlord"
+AQY_hunted_leader:0 "Illegitimate Leader"
+AQY_leaderless:0 "Leaderless Organization"
+
 BRU_sultan_leader:0 "Sultanate of Brunei"
 BRU_honorary_admiral:0 "Honorary Admiral of the Royal Navy"
 BRU_Melayu_islam:0 "Melayu Islam Beraja"
@@ -17,24 +22,73 @@ DJI_linguist:0 "Agile Linguist"
 DJI_former_secret_service:0 "Former Security Service Member"
 DJI_detainer:0 "Detainer of Political Opponents"
 
+EGY_military_experience:0 "Military Experience"
+EGY_brutal_repression:0 "Brutal Repression"
+EGY_anti_muslim_brotherhood:0 "Anti Muslim-Brotherhood"
+EGY_cult_of_personality:0 "Cult of Personality"
+EGY_israeli_revisionism:0 "Israeli Normalization"
+
 ENG_pro_brexit_policy:0 "Pro-Brexit Policy"
 ENG_pro_union:0 "Pro-Unionist"
 ENG_pro_chinese:0 "Pro-Chinese Economic Relations"
 
+ETH_military_background:0 "Military Background Experience"
+ETH_former_security:0 "Security Communications Co-Founder"
+ETH_pro_transparency:0 "Media Reformist"
+ETH_anti_repression:0 "Anti-Repressive"
+ETH_anti_ef:0 "Anti Ethnic-Federalist"
+
+ERI_infrastrucutre:0 "Infrastructure Developer"
+ERI_repressive:0 "Politically Repressive Despot"
+ERI_hermit:0 "Hermit Leader"
+ERI_enigma:0 "Anti-Media Enigma"
+
 ESW_indisciplined_ruler:0 "Indisciplined Monarch"
 ESW_luxury_corruption:0 "Corrupt Life of Luxury"
 ESW_indomitable_despot:0 "Indomitable Despot"
+
+LAO_vietnamese_ally:0 "Vietnamese Ally"
+LAO_propaganda:0 "Former Propaganda Maker"
+LAO_military_background:0 "Pathet Lao Independance Fighter"
 
 PRC_china_national_destiny:0 "Sino-Supremacist"
 PRC_hawk:0 "Aggressive Military Hawk"
 PRC_cooperation:0 "Pro One China Policy"
 PRC_anti_american:0 "Pacific Hegemonist"
 
+QAT_sports_diplomacy:0 "Sports Diplomacy"
+QAT_young_monarch:0 "Young Reformist Monarch"
+QAT_nationaL_figure:0 "National Figure"
+QAT_infrastructure:0 "Infrastrure Builder"
+QAT_anti_false_news:0 "Anti-False News"
+QAT_anti_buraecratic:0 "Anti-Bureaucracy"
+QAT_military_alliances:0 "India-Turkey-America Cooperation"
+
 SML_af_pilot:0 "Former Air Force Pilot"
 SML_struggle_somaliland:0 "Former Independance Fighter for Somaliland"
+
+SOM_controversial:0 "Controversial President"
+SOM_former_reformist:0 "Former Reformist"
+SOM_hardline_anti_terror:0 "Hardline Anti-Terrorist"
+SOM_american_thinker:0 "American Ally"
+SOM_anti_media_stance:0 "Media Harrassment"
+SOM_rocky_democratiser:0 "Rocky Democratiser"
 
 SSD_failed_reformer:0 "Failed Reformer"
 SSD_military_background:0 "Military Background of the Sudanese Civil War"
 SSD_ethnic_violence:0 "Inciter of Ethnic Violence"
 SSD_journalist_butcher:0 "Butcher of Journalists"
 SSD_east_africa:0 "East African Brotherhood"
+
+SUD_popular_reformer:0 "Popular Post-Bashar Reformer"
+SUD_anti_basharist:0 "Anti-Basharist"
+SUD_transitional_government:0 "Transitional Government to Democracy"
+SUD_agricultural_reformer:0 "Commercialised-Agriculture Reformer"
+SUD_technocrat:0 "Instituitional Technocatic Integrator"
+SUD_pro_womens_rights:0 "Pro-Women's rights"
+
+VIN_industrialist:0 "Pro-Industrialist Visions"
+VIN_anti_corrupt:0 "Anti-Corrupt"
+VIN_conservative_marxist:0 "Marxist Theoritician"
+VIN_old_guard:0 "Old Guard of Asia"
+VIN_globalism:0 "Vietnam to the World"

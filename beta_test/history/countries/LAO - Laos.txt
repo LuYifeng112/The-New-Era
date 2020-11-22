@@ -42,6 +42,8 @@ create_country_leader = {
 	picture = "gfx/leaders/LAO/LAO_Bounhang_vorachith.dds"
 	ideology = marxism
 	traits = {
-		
+		LAO_vietnamese_ally
+		LAO_propaganda
+		LAO_military_background
 	}
 }

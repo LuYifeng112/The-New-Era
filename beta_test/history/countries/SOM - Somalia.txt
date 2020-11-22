@@ -1,0 +1,35 @@
+﻿capital = 559
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 10
+
+set_politics = {
+	ruling_party = liberalism
+	last_election = "2017.2.8"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	liberalism  = 56
+	islamism = 30
+	neutrality = 14
+}
+
+create_country_leader = {
+	name = "Mohamed Abdullahi Mohamed"
+	desc = "POLITICS_MOHAMED_MOHAMED_DESC"
+	picture = "gfx/leaders/SOM/SOM_MOHAMMAD.dds"
+	ideology = liberal_demo
+	traits = {
+		SOM_controversial
+		SOM_former_reformist
+		SOM_hardline_anti_terror
+		SOM_american_thinker
+		SOM_anti_media_stance
+		SOM_rocky_democratiser
+	}
+}

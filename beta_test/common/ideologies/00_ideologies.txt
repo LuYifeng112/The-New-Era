@@ -210,6 +210,9 @@ ideologies = {
 			big_tent = {
 			
 			}
+
+			emerging_reformer = {
+			}
 		}
 
 		dynamic_faction_names = {
@@ -402,6 +405,15 @@ ideologies = {
 			}
 
 			chinese_nationalism = {
+			}
+
+			ethiopian_nationalism = {
+			}
+
+			tigray_nationalism = {
+			}
+
+			eritrean_nationalism = {
 			}
 		}
 		

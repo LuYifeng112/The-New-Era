@@ -747,3 +747,7 @@ KUR = {
 	color = rgb { 113 212 68 }
 	color_ui = rgb { 113 212 68 }	
 }
+TIG = {
+	color = rgb { 168 48 15 }
+	color_ui = rgb { 168 48 15 }	
+}

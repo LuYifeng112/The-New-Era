@@ -1,0 +1,50 @@
+leader_traits = {
+
+	ERI_infrastrucutre = {
+		random = no
+
+		production_speed_infrastructure_factor = 0.1
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	ERI_repressive = {
+		random = no
+
+		stability_factor = -0.1
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	ERI_hermit = {
+		random = no
+
+		ai_strategy = {
+			type = ignore
+			value = 400
+		}
+
+		improve_relations_maintain_cost_factor = 1.5
+		opinion_gain_monthly_same_ideology_factor = -0.5
+		political_power_factor = -0.3
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	ERI_enigma = {
+		random = no
+
+		encryption_factor = 0.5
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+}

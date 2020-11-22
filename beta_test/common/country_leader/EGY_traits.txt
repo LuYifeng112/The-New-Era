@@ -1,0 +1,59 @@
+leader_traits = {
+
+	EGY_military_experience = {
+		random = no
+
+		army_core_attack_factor = 0.1
+		army_core_defence_factor = 0.1
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	EGY_brutal_repression = {
+		random = no
+
+		stability = -0.15
+		drift_defence_factor = 0.3
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	EGY_anti_muslim_brotherhood = {
+		random = no
+
+		islamism_drift = -0.15
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	EGY_cult_of_personality = {
+		random = no
+
+		stability_factor = 0.1
+		political_power_factor = 0.3
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	EGY_israeli_revisionism = {
+		random = no
+
+		ai_strategy = {
+			type = antagonize
+			id = ISR
+			value = -100
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

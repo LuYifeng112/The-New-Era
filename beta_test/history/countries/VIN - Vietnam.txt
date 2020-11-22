@@ -30,6 +30,10 @@ create_country_leader = {
 	picture = "gfx/leaders/VIN/VIN_PHU_TRONG.dds"
 	ideology = ho_chi_minh_thought 
 	traits = {
-		
+		VIN_industrialist
+		VIN_anti_corrupt
+		VIN_conservative_marxist
+		VIN_old_guard
+		VIN_globalism 
 	}
 }

@@ -1,0 +1,134 @@
+leader_traits = {
+	
+	QAT_sports_diplomacy = {
+		random = no
+
+		opinion_gain_monthly_factor = 0.1
+		trade_opinion_factor = 0.1
+		improve_relations_maintain_cost_factor = -0.05
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	QAT_young_monarch = {
+		random = no
+
+		political_power_gain = -0.1
+
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	QAT_nationaL_figure = {
+		random = no
+
+		stability_factor = 0.1
+
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	QAT_infrastructure = {
+		random = no
+
+		production_speed_infrastructure_factor = 0.1
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	QAT_anti_false_news = {
+		random = no
+
+		drift_defence_factor = 0.2
+		stability_factor = 0.1
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	QAT_anti_buraecratic = {
+		random = no
+
+		centralization_index = -10
+		production_factory_efficiency_gain_factor = 0.1
+		political_power_cost = -0.2
+		conversion_cost_civ_to_mil_factor = -0.05
+		conversion_cost_mil_to_civ_factor = -0.05
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	QAT_military_alliances = {
+		random = no
+
+		ai_strategy = {
+			type = befriend
+			id = RAJ
+			value = 50
+		}
+
+		ai_strategy = {
+			type = support
+			id = RAJ
+			value = 50
+		}
+
+		ai_strategy = {
+			type = protect
+			id = RAJ
+			value = 50
+		}
+
+		ai_strategy = {
+			type = befriend
+			id = TUR
+			value = 50
+		}
+
+		ai_strategy = {
+			type = support
+			id = TUR
+			value = 50
+		}
+
+		ai_strategy = {
+			type = protect
+			id = TUR
+			value = 50
+		}
+
+		ai_strategy = {
+			type = befriend
+			id = USA
+			value = 50
+		}
+
+		ai_strategy = {
+			type = support
+			id = USA
+			value = 50
+		}
+
+		ai_strategy = {
+			type = protect
+			id = USA
+			value = 50
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+}

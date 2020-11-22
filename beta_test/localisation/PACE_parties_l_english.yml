@@ -24,6 +24,8 @@
  anti_revisionism_desc:0 "A reaction to the many ideologies claiming to be successors to Marxism, Anti-Revisionism advocates retaining key elements of original revolutionary theory. Mainly opposing incorporation of capitalist economic elements into socialist states, the ideology is defined as much by what it isn't as what it is."
  anarchist_communism:0 "Anarchist Communism"
  anarchist_communism_desc:0 "An ideology embracing the idea of communism as a stateless society, Anarchist Communism eschews the idea of a transitionary socialist state and favors a society based on voluntary associations and mutual aid."
+ ho_chi_minh_thought:0 "Ho-Chi-Minh Thought"
+ ho_chi_minh_thought_desc:0 "Ho Chi-Minh thought is rooted in a converging branch of Marxism fitted specifically for the Vietnamese Nation. Its founder Ho Chi-Minh rooted the principles in Marxism-Leninism, Traditional Vietnamese Culture, Confucianism, Western Ideologies and Ho Chi-Minh's moralism. This culmination of foundational ideas formed the pillar for the Communist party's policies and the guidance of Vietnam's future.  "
  nazism:0 "Nazism"
  nazism_desc:0 "Rooted in extreme nationalism, National Socialism is driven by ideas of Germanic supremacy. It promotes aggressive expansionism and a totalitarian state where the people are united under a leader with absolute power, the Führer."
  fascism_ideology:0 "Fascism"
@@ -65,6 +67,11 @@
  DRK_communism_party:0 "Chosŏn Rodongdang"
  DRK_communism_party_long:0 "Chosŏn Rodongdang"
 
+ EGY_authoritarian_party:0 "Independant"
+ EGY_authoritarian_party_long:0 "Independant"
+ EGY_liberalism_party:0 "El-Ghad Party"
+ EGY_liberalism_party_long:0 "El-Ghad Party"
+
  ENG_conservative_party:0 "Conservative and Unionist Party"
  ENG_conservative_party_long:0 "Conservative and Unionist Party"
  ENG_democratic_party:0 "Labour party"
@@ -73,6 +80,14 @@
  ENG_liberal_party_long:0 "Liberal Democrats"
  ENG_nationalist_party:0 "Scots Nationalist Party"
  ENG_nationaist_party_long:0 "Scots Nationalist Party"
+
+ ETH_nationalist_party:0 "Ethiopian People's Revolutionary Democratic Front"
+ ETH_nationalist_party_long:0 "Ethiopian People's Revolutionary Democratic Front"
+ ETH_democratic_party:0 "Somali People's Democratic Party"
+ ETH_democratic_party_long:0 "Somali People's Democratic Party"
+
+ ERI_nationalism_party:0 "Fronte Popolare per la Democrazia e la Giustizia"
+ ERI_nationalism_party_long:0 "Fronte Popolare per la Democrazia e la Giustizia"
 
  ESW_monarchist_party:0 "House of Dlamini"
  ESW_monarchist_party_long:0 "House of Dlamini"
@@ -96,6 +111,9 @@
  LES_nationalist_party:0 "All Bathoso Convention"
  LES_nationalist_party_long:0 "All Bathoso Convention"
 
+ LAO_communism_party:0 "Phak Pasaxon Pativat Lao"
+ LAO_communism_party_long:0 "Phak Pasaxon Pativat Lao"
+
  PRC_Chinese_socialism_party:0 "Zhonguo Gong-Chang Dang"
  PRC_Chinese_socialism_party_long:0 "Zhonguo Gong-Chang Dang"
  PRC_radical_right_party:0 "Chinese Officers Adminstration"
@@ -110,7 +128,17 @@
  SML_democratic_party:0 "Ururka Caddaalada iyo Daryeelka"
  SML_democratic_party_long:0 "Ururka Caddaalada iyo Daryeelka"
 
+ SOM_liberalism_party:0 "Xisbiga Siyaasadda ee Tayo"
+ SOM_liberalism_party_long:0 "Xisbiga Siyaasadda ee Tayo"
+ SOM_islamism_party:0 "Xisbiga Nabadda Iyo Horumarka"
+ SOM_islamism_party_long:0 "Xisbiga Nabadda Iyo Horumarka"
+ SOM_neutrality_party:0 "Independant"
+ SOM_neutrality_party_long:0 "Independant"
+
  SSD_neutrality_party:0 "Alharakat Alshaebiat Litahrir Alsuwdan"
  SSD_neutralityparty_long:0 "Alharakat Alshaebiat Litahrir Alsuwdan"
  SSD_democratic_party:0 "Altaghyir Aldiymuqratiu"
  SSD_democratic_party_long:0 "Altaghyir Aldiymuqratiu"
+
+ VIN_communist_party:0 "Dang Cong San Viet Nam"
+ VIN_communist_party_long:0 "Dang Cong San Viet Nam"

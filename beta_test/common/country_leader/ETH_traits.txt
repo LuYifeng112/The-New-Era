@@ -1,0 +1,58 @@
+leader_traits = {
+
+	ETH_military_background = {
+		random = no
+
+		training_time_army_factor = -0.1
+		army_core_attack_factor = 0.05
+		army_core_defence_factor = 0.05
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	ETH_former_security = {
+		random = no
+
+		encryption_factor = 0.2
+		planning_speed = 0.10
+		drift_defence_factor = 0.2
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	ETH_pro_transparency = {
+		random = no
+
+		stability_factor = 0.1
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	ETH_anti_repression = {
+		random = no
+
+		stability_factor = 0.1
+		drift_defense_factor = -0.1
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	ETH_anti_ef = {
+		random = no
+
+		stability_factor = 0.1
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+}
